@@ -1,0 +1,848 @@
+MovieId,imdbId,title,genres,Year,Avg rating,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,imdb links
+4054,0206275,Save the Last Dance (2001),Drama|Romance,2001,2.84375,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0206275
+4069,0209475,"Wedding Planner, The (2001)",Comedy|Romance,2001,2.909090909,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0209475
+4148,0212985,Hannibal (2001),Horror|Thriller,2001,2.935897436,0,0,0,0,0,0,0,0,0,1,0,0,0,1,https://www.imdb.com/title/tt0212985
+4149,0239948,Saving Silverman (Evil Woman) (2001),Comedy|Romance,2001,2.772727273,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0239948
+4153,0231775,Down to Earth (2001),Comedy|Fantasy|Romance,2001,2.416666667,0,0,0,0,1,0,0,0,1,0,0,1,0,0,https://www.imdb.com/title/tt0231775
+4161,0236493,"Mexican, The (2001)",Action|Comedy,2001,3.347826087,1,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0236493
+4167,0179626,15 Minutes (2001),Thriller,2001,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0179626
+4223,0215750,Enemy at the Gates (2001),Drama,2001,3.5125,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0215750
+4228,0125022,Heartbreakers (2001),Comedy|Crime|Romance,2001,2.15,0,0,0,0,1,1,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0125022
+4232,0227538,Spy Kids (2001),Action|Adventure|Children|Comedy,2001,2.946428571,1,1,0,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0227538
+4238,0164334,Along Came a Spider (2001),Action|Crime|Mystery|Thriller,2001,3.147058824,1,0,0,0,0,1,0,0,0,0,1,0,0,1,https://www.imdb.com/title/tt0164334
+4239,0221027,Blow (2001),Crime|Drama,2001,3.81372549,0,0,0,0,0,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0221027
+4246,0243155,Bridget Jones's Diary (2001),Comedy|Drama|Romance,2001,3.623076923,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0243155
+4247,0245686,Joe Dirt (2001),Adventure|Comedy|Mystery|Romance,2001,2.380952381,0,1,0,0,1,0,0,0,0,0,1,1,0,0,https://www.imdb.com/title/tt0245686
+4254,0231402,Crocodile Dundee in Los Angeles (2001),Comedy|Drama,2001,2.192307692,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0231402
+4270,0209163,"Mummy Returns, The (2001)",Action|Adventure|Comedy|Thriller,2001,3.088888889,1,1,0,0,1,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0209163
+4299,0183790,"Knight's Tale, A (2001)",Action|Comedy|Romance,2001,3.341463415,1,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0183790
+4306,0126029,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance,2001,3.867647059,0,1,1,1,1,0,0,0,1,0,0,1,0,0,https://www.imdb.com/title/tt0126029
+4308,0203009,Moulin Rouge (2001),Drama|Romance,2001,3.590909091,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0203009
+4310,0213149,Pearl Harbor (2001),Action|Drama|Romance,2001,2.965116279,1,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0213149
+4340,0255798,"Animal, The (2001)",Comedy,2001,2.136363636,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0255798
+4343,0251075,Evolution (2001),Comedy|Sci-Fi,2001,3.037037037,0,0,0,0,1,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0251075
+4344,0244244,Swordfish (2001),Action|Crime|Drama,2001,3.102941176,1,0,0,0,0,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0244244
+4366,0230011,Atlantis: The Lost Empire (2001),Adventure|Animation|Children|Fantasy,2001,3.342105263,0,1,1,1,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0230011
+4367,0146316,Lara Croft: Tomb Raider (2001),Action|Adventure,2001,2.9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0146316
+4368,0240462,Dr. Dolittle 2 (2001),Comedy,2001,2.363636364,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0240462
+4369,0232500,"Fast and the Furious, The (2001)",Action|Crime|Thriller,2001,3.066666667,1,0,0,0,0,1,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0232500
+4370,0212720,A.I. Artificial Intelligence (2001),Adventure|Drama|Sci-Fi,2001,3.339285714,0,1,0,0,0,0,0,1,0,0,0,0,1,0,https://www.imdb.com/title/tt0212720
+4386,0239395,Cats & Dogs (2001),Children|Comedy,2001,2.818181818,0,0,0,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0239395
+4388,0257106,Scary Movie 2 (2001),Comedy,2001,2.653846154,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0257106
+4446,0173840,Final Fantasy: The Spirits Within (2001),Adventure|Animation|Fantasy|Sci-Fi,2001,3.35483871,0,1,1,0,0,0,0,0,1,0,0,0,1,0,https://www.imdb.com/title/tt0173840
+4447,0250494,Legally Blonde (2001),Comedy|Romance,2001,3.15625,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0250494
+4448,0227445,"Score, The (2001)",Action|Drama,2001,3.55,1,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0227445
+4638,0163025,Jurassic Park III (2001),Action|Adventure|Sci-Fi|Thriller,2001,2.847222222,1,1,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0163025
+4639,0265029,America's Sweethearts (2001),Comedy|Romance,2001,2.583333333,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0265029
+4641,0162346,Ghost World (2001),Comedy|Drama,2001,3.5,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0162346
+4643,0133152,Planet of the Apes (2001),Action|Adventure|Drama|Sci-Fi,2001,2.744897959,1,1,0,0,0,0,0,1,0,0,0,0,1,0,https://www.imdb.com/title/tt0133152
+4700,0247638,"Princess Diaries, The (2001)",Children|Comedy|Romance,2001,3.037037037,0,0,0,1,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0247638
+4701,0266915,Rush Hour 2 (2001),Action|Comedy,2001,3.370967742,1,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0266915
+4718,0252866,American Pie 2 (2001),Comedy,2001,3.066666667,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0252866
+4720,0230600,"Others, The (2001)",Drama|Horror|Mystery|Thriller,2001,3.627272727,0,0,0,0,0,0,0,1,0,1,1,0,0,1,https://www.imdb.com/title/tt0230600
+4728,0250687,Rat Race (2001),Comedy,2001,3.055555556,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0250687
+4734,0261392,Jay and Silent Bob Strike Back (2001),Adventure|Comedy,2001,3.161764706,0,1,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0261392
+4776,0139654,Training Day (2001),Crime|Drama|Thriller,2001,3.794117647,0,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0139654
+4816,0196229,Zoolander (2001),Comedy,2001,3.509259259,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0196229
+4823,0240890,Serendipity (2001),Comedy|Romance,2001,3.14,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0240890
+4848,0166924,Mulholland Drive (2001),Crime|Drama|Mystery|Thriller,2001,3.843137255,0,0,0,0,0,1,0,1,0,0,1,0,0,1,https://www.imdb.com/title/tt0166924
+4865,0120681,From Hell (2001),Crime|Horror|Mystery|Thriller,2001,3.65,0,0,0,0,0,1,0,0,0,1,1,0,0,1,https://www.imdb.com/title/tt0120681
+4873,0243017,Waking Life (2001),Animation|Drama|Fantasy,2001,3.684210526,0,0,1,0,0,0,0,1,1,0,0,0,0,0,https://www.imdb.com/title/tt0243017
+4874,0272152,K-PAX (2001),Drama|Fantasy|Mystery|Sci-Fi,2001,3.484848485,0,0,0,0,0,0,0,1,1,0,1,0,1,0,https://www.imdb.com/title/tt0272152
+4876,0245674,Thirteen Ghosts (a.k.a. Thir13en Ghosts) (2001),Horror|Thriller,2001,2.458333333,0,0,0,0,0,0,0,0,0,1,0,0,0,1,https://www.imdb.com/title/tt0245674
+4878,0246578,Donnie Darko (2001),Drama|Mystery|Sci-Fi|Thriller,2001,3.981651376,0,0,0,0,0,0,0,1,0,0,1,0,1,1,https://www.imdb.com/title/tt0246578
+4881,0243133,"Man Who Wasn't There, The (2001)",Crime|Drama,2001,3.735294118,0,0,0,0,0,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0243133
+4886,0198781,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy,2001,3.871212121,0,1,1,1,1,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0198781
+4887,0267804,"One, The (2001)",Action|Sci-Fi|Thriller,2001,2.75,1,0,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0267804
+4890,0256380,Shallow Hal (2001),Comedy|Fantasy|Romance,2001,3.032258065,0,0,0,0,1,0,0,0,1,0,0,1,0,0,https://www.imdb.com/title/tt0256380
+4896,0241527,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),Adventure|Children|Fantasy,2001,3.761682243,0,1,0,1,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0241527
+4901,0266987,Spy Game (2001),Action|Crime|Drama|Thriller,2001,3.481481481,1,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0266987
+4902,0256009,"Devil's Backbone, The (Espinazo del diablo, El) (2001)",Drama|Fantasy|Horror|Thriller,2001,3.35,0,0,0,0,0,0,0,1,1,1,0,0,0,1,https://www.imdb.com/title/tt0256009
+4903,0247425,In the Bedroom (2001),Drama,2001,3.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0247425
+4958,0159273,Behind Enemy Lines (2001),Action|Drama,2001,3.25,1,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0159273
+4963,0240772,Ocean's Eleven (2001),Crime|Thriller,2001,3.844537815,0,0,0,0,0,1,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0240772
+4967,0283509,No Man's Land (2001),Drama,2001,4.192307692,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0283509
+4973,0211915,"Amelie (Fabuleux destin d'AmÃ©lie Poulain, Le) (2001)",Comedy|Romance,2001,4.183333333,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0211915
+4974,0277371,Not Another Teen Movie (2001),Comedy,2001,2.571428571,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0277371
+4975,0259711,Vanilla Sky (2001),Mystery|Romance|Sci-Fi|Thriller,2001,3.420454545,0,0,0,0,0,0,0,0,0,0,1,1,1,1,https://www.imdb.com/title/tt0259711
+4979,0265666,"Royal Tenenbaums, The (2001)",Comedy|Drama,2001,3.683823529,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0265666
+4992,0035423,Kate & Leopold (2001),Comedy|Romance,2001,3.205882353,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0035423
+4993,0120737,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,2001,4.106060606,0,1,0,0,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0120737
+4994,0268995,"Majestic, The (2001)",Comedy|Drama|Romance,2001,3.5,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0268995
+4995,0268978,"Beautiful Mind, A (2001)",Drama|Romance,2001,4.0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0268978
+5010,0265086,Black Hawk Down (2001),Action|Drama,2001,3.81,1,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0265086
+5013,0280707,Gosford Park (2001),Comedy|Drama|Mystery,2001,3.703703704,0,0,0,0,1,0,0,1,0,0,1,0,0,0,https://www.imdb.com/title/tt0280707
+5014,0277027,I Am Sam (2001),Drama,2001,3.764705882,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0277027
+5015,0285742,Monster's Ball (2001),Drama|Romance,2001,3.305555556,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0285742
+5025,0273923,Orange County (2002),Comedy,2002,2.633333333,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0273923
+5026,0237534,"Brotherhood of the Wolf (Pacte des loups, Le) (2001)",Action|Mystery|Thriller,2001,3.821428571,1,0,0,0,0,0,0,0,0,0,1,0,0,1,https://www.imdb.com/title/tt0237534
+5064,0245844,The Count of Monte Cristo (2002),Action|Adventure|Drama|Thriller,2002,3.828125,1,1,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0245844
+5065,0265349,"Mothman Prophecies, The (2002)",Drama|Fantasy|Horror|Mystery|Thriller,2002,3.076923077,0,0,0,0,0,0,0,1,1,1,1,0,0,1,https://www.imdb.com/title/tt0265349
+5066,0281358,"Walk to Remember, A (2002)",Drama|Romance,2002,3.5,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0281358
+5072,0293416,Metropolis (2001),Animation|Sci-Fi,2001,3.961538462,0,0,1,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0293416
+5108,0251160,John Q (2002),Crime|Drama|Thriller,2002,2.909090909,0,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0251160
+5110,0247745,Super Troopers (2001),Comedy|Crime|Mystery,2001,3.604166667,0,0,0,0,1,1,0,0,0,0,1,0,0,0,https://www.imdb.com/title/tt0247745
+5128,0238546,Queen of the Damned (2002),Fantasy|Horror,2002,2.363636364,0,0,0,0,0,0,0,0,1,1,0,0,0,0,https://www.imdb.com/title/tt0238546
+5135,0265343,Monsoon Wedding (2001),Comedy|Romance,2001,3.833333333,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0265343
+5152,0277434,We Were Soldiers (2002),Action|Drama,2002,3.333333333,1,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0277434
+5171,0268695,"Time Machine, The (2002)",Action|Adventure|Sci-Fi,2002,2.863636364,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0268695
+5218,0268380,Ice Age (2002),Adventure|Animation|Children|Comedy,2002,3.688235294,0,1,1,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0268380
+5219,0120804,Resident Evil (2002),Action|Horror|Sci-Fi|Thriller,2002,3.083333333,1,0,0,0,0,0,0,0,0,1,0,0,1,1,https://www.imdb.com/title/tt0120804
+5220,0284490,Showtime (2002),Action|Comedy,2002,2.4,1,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0284490
+5254,0187738,Blade II (2002),Action|Horror|Thriller,2002,3.205882353,1,0,0,0,0,0,0,0,0,1,0,0,0,1,https://www.imdb.com/title/tt0187738
+5265,0266452,Death to Smoochy (2002),Comedy|Crime|Drama,2002,3.318181818,0,0,0,0,1,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0266452
+5266,0258000,Panic Room (2002),Thriller,2002,3.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0258000
+5267,0265662,"Rookie, The (2002)",Drama,2002,3.291666667,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0265662
+5283,0283111,National Lampoon's Van Wilder (2002),Comedy,2002,2.909090909,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0283111
+5294,0264616,Frailty (2001),Crime|Drama|Thriller,2001,3.863636364,0,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0264616
+5296,0253867,"Sweetest Thing, The (2002)",Comedy|Romance,2002,2.9,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0253867
+5299,0259446,My Big Fat Greek Wedding (2002),Comedy|Romance,2002,3.266666667,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0259446
+5313,0277296,The Scorpion King (2002),Action|Adventure|Fantasy|Thriller,2002,2.295454545,1,1,0,0,0,0,0,0,1,0,0,0,0,1,https://www.imdb.com/title/tt0277296
+5329,0235737,"Salton Sea, The (2002)",Crime|Drama|Thriller,2002,3.35,0,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0235737
+5349,0145487,Spider-Man (2002),Action|Adventure|Sci-Fi|Thriller,2002,3.540983607,1,1,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0145487
+5377,0276751,About a Boy (2002),Comedy|Drama|Romance,2002,3.715909091,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0276751
+5378,0121765,Star Wars: Episode II - Attack of the Clones (2002),Action|Adventure|Sci-Fi,2002,3.157608696,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0121765
+5380,0278500,"Importance of Being Earnest, The (2002)",Comedy|Drama|Romance,2002,3.85,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0278500
+5388,0278504,Insomnia (2002),Action|Crime|Drama|Mystery|Thriller,2002,3.303030303,1,0,0,0,0,1,0,1,0,0,1,0,0,1,https://www.imdb.com/title/tt0278504
+5400,0164184,"Sum of All Fears, The (2002)",Drama|Thriller,2002,2.970588235,0,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0164184
+5418,0258463,"Bourne Identity, The (2002)",Action|Mystery|Thriller,2002,3.816964286,1,0,0,0,0,0,0,0,0,0,1,0,0,1,https://www.imdb.com/title/tt0258463
+5419,0267913,Scooby-Doo (2002),Adventure|Children|Comedy|Fantasy|Mystery,2002,2.852941176,0,1,0,1,1,0,0,0,1,0,1,0,0,0,https://www.imdb.com/title/tt0267913
+5444,0275847,Lilo & Stitch (2002),Adventure|Animation|Children|Sci-Fi,2002,3.810344828,0,1,1,1,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0275847
+5445,0181689,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller,2002,3.6375,1,0,0,0,0,1,0,0,0,0,1,0,1,1,https://www.imdb.com/title/tt0181689
+5449,0280590,Mr. Deeds (2002),Comedy|Romance,2002,2.909090909,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0280590
+5459,0120912,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002),Action|Comedy|Sci-Fi,2002,2.959016393,1,0,0,0,1,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0120912
+5463,0253556,Reign of Fire (2002),Action|Adventure|Fantasy,2002,2.722222222,1,1,0,0,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0253556
+5464,0257044,Road to Perdition (2002),Crime|Drama,2002,3.520408163,0,0,0,0,0,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0257044
+5481,0295178,Austin Powers in Goldmember (2002),Comedy,2002,2.846153846,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0295178
+5502,0286106,Signs (2002),Horror|Sci-Fi|Thriller,2002,3.166666667,0,0,0,0,0,0,0,0,0,1,0,0,1,1,https://www.imdb.com/title/tt0286106
+5505,0279113,"Good Girl, The (2002)",Comedy|Drama,2002,3.208333333,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0279113
+5507,0295701,xXx (2002),Action|Crime|Thriller,2002,2.770833333,1,0,0,0,0,1,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0295701
+5528,0265459,One Hour Photo (2002),Drama|Thriller,2002,3.473684211,0,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0265459
+5574,0293662,"Transporter, The (2002)",Action|Crime,2002,3.519230769,1,0,0,0,0,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0293662
+5577,0280760,Igby Goes Down (2002),Comedy|Drama,2002,3.666666667,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0280760
+5608,0250258,"Das Experiment (Experiment, The) (2001)",Drama|Thriller,2001,3.863636364,0,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0250258
+5618,0245429,Spirited Away (Sen to Chihiro no kamikakushi) (2001),Adventure|Animation|Fantasy,2001,4.155172414,0,1,1,0,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0245429
+5620,0256415,Sweet Home Alabama (2002),Comedy|Romance,2002,3.053571429,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0256415
+5621,0290095,"Tuxedo, The (2002)",Action|Comedy,2002,2.5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0290095
+5630,0289765,Red Dragon (2002),Crime|Mystery|Thriller,2002,3.435483871,0,0,0,0,0,1,0,0,0,0,1,0,0,1,https://www.imdb.com/title/tt0289765
+5669,0310793,Bowling for Columbine (2002),Documentary,2002,3.775862069,0,0,0,0,0,0,1,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0310793
+5673,0272338,Punch-Drunk Love (2002),Comedy|Drama|Romance,2002,3.621212121,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0272338
+5679,0298130,"Ring, The (2002)",Horror|Mystery|Thriller,2002,3.20212766,0,0,0,0,0,0,0,0,0,1,1,0,0,1,https://www.imdb.com/title/tt0298130
+5785,0322802,Jackass: The Movie (2002),Action|Comedy|Documentary,2002,3.5,1,0,0,0,1,0,1,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0322802
+5791,0120679,Frida (2002),Drama|Romance,2002,3.78125,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0120679
+5810,0298203,8 Mile (2002),Drama,2002,3.292682927,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0298203
+5812,0297884,Far from Heaven (2002),Drama|Romance,2002,3.863636364,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0297884
+5816,0295297,Harry Potter and the Chamber of Secrets (2002),Adventure|Fantasy,2002,3.598039216,0,1,0,0,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0295297
+5872,0246460,Die Another Day (2002),Action|Adventure|Thriller,2002,2.925925926,1,1,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0246460
+5878,0287467,Talk to Her (Hable con Ella) (2002),Drama|Romance,2002,4.035714286,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0287467
+5881,0307479,Solaris (2002),Drama|Romance|Sci-Fi,2002,3.075,0,0,0,0,0,0,0,1,0,0,0,1,1,0,https://www.imdb.com/title/tt0307479
+5902,0268126,Adaptation (2002),Comedy|Drama|Romance,2002,3.945652174,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0268126
+5903,0238380,Equilibrium (2002),Action|Sci-Fi|Thriller,2002,3.875,1,0,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0238380
+5943,0252076,Maid in Manhattan (2002),Comedy|Romance,2002,2.605263158,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0252076
+5944,0253754,Star Trek: Nemesis (2002),Action|Drama|Sci-Fi|Thriller,2002,3.105263158,1,0,0,0,0,0,0,1,0,0,0,0,1,1,https://www.imdb.com/title/tt0253754
+5945,0257360,About Schmidt (2002),Comedy|Drama,2002,3.173076923,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0257360
+5952,0167261,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy,2002,4.021276596,0,1,0,0,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0167261
+5954,0307901,25th Hour (2002),Crime|Drama,2002,3.840909091,0,0,0,0,0,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0307901
+5956,0217505,Gangs of New York (2002),Crime|Drama,2002,3.518181818,0,0,0,0,0,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0217505
+5957,0313737,Two Weeks Notice (2002),Comedy|Romance,2002,3.263157895,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0313737
+5989,0264464,Catch Me If You Can (2002),Crime|Drama,2002,3.92173913,0,0,0,0,0,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0264464
+5991,0299658,Chicago (2002),Comedy|Crime|Drama,2002,3.724489796,0,0,0,0,1,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0299658
+5992,0274558,"Hours, The (2002)",Drama|Romance,2002,3.7,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0274558
+5995,0253474,"Pianist, The (2002)",Drama,2002,4.108695652,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0253474
+6003,0290538,Confessions of a Dangerous Mind (2002),Comedy|Crime|Drama|Thriller,2002,3.6,0,0,0,0,1,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0290538
+6016,0317248,City of God (Cidade de Deus) (2002),Action|Adventure|Crime|Drama|Thriller,2002,4.146666667,1,1,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0317248
+6058,0309593,Final Destination 2 (2003),Horror|Thriller,2003,3.05,0,0,0,0,0,0,0,0,0,1,0,0,0,1,https://www.imdb.com/title/tt0309593
+6059,0292506,"Recruit, The (2003)",Action|Thriller,2003,3.352941176,1,0,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0292506
+6155,0251127,How to Lose a Guy in 10 Days (2003),Comedy|Romance,2003,3.275862069,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0251127
+6156,0300471,Shanghai Knights (2003),Action|Adventure|Comedy,2003,3.210526316,1,1,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0300471
+6157,0287978,Daredevil (2003),Action|Crime,2003,2.5,1,0,0,0,0,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0287978
+6188,0302886,Old School (2003),Comedy,2003,3.512820513,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0302886
+6218,0286499,Bend It Like Beckham (2002),Comedy|Drama|Romance,2002,3.3,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0286499
+6281,0183649,Phone Booth (2002),Drama|Thriller,2002,3.140625,0,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0183649
+6283,0275277,Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira) (2001),Action|Animation|Sci-Fi|Thriller,2001,3.9,1,0,1,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0275277
+6287,0305224,Anger Management (2003),Comedy,2003,3.058823529,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0305224
+6294,0245803,Bulletproof Monk (2003),Action|Adventure|Sci-Fi,2003,2.409090909,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0245803
+6296,0310281,"Mighty Wind, A (2003)",Comedy,2003,3.75,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0310281
+6297,0311289,Holes (2003),Adventure|Children|Comedy|Mystery,2003,3.425,0,1,0,1,1,0,0,0,0,0,1,0,0,0,https://www.imdb.com/title/tt0311289
+6323,0309698,Identity (2003),Crime|Horror|Mystery|Thriller,2003,3.681818182,0,0,0,0,0,1,0,0,0,1,1,0,0,1,https://www.imdb.com/title/tt0309698
+6331,0334405,Spellbound (2002),Documentary,2002,3.923076923,0,0,0,0,0,0,1,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0334405
+6333,0290334,X2: X-Men United (2003),Action|Adventure|Sci-Fi|Thriller,2003,3.723684211,1,1,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0290334
+6365,0234215,"Matrix Reloaded, The (2003)",Action|Adventure|Sci-Fi|Thriller,2003,3.354166667,1,1,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0234215
+6367,0309530,Down with Love (2003),Comedy|Romance,2003,2.9,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0309530
+6373,0315327,Bruce Almighty (2003),Comedy|Drama|Fantasy|Romance,2003,3.316901408,0,0,0,0,1,0,0,1,1,0,0,1,0,0,https://www.imdb.com/title/tt0315327
+6377,0266543,Finding Nemo (2003),Adventure|Animation|Children|Comedy,2003,3.960992908,0,1,1,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0266543
+6378,0317740,"Italian Job, The (2003)",Action|Crime,2003,3.618644068,1,0,0,0,0,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0317740
+6383,0322259,"2 Fast 2 Furious (Fast and the Furious 2, The) (2003)",Action|Crime|Thriller,2003,2.605263158,1,0,0,0,0,1,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0322259
+6385,0298228,Whale Rider (2002),Drama,2002,3.75,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0298228
+6482,0329028,Dumb and Dumberer: When Harry Met Lloyd (2003),Comedy,2003,1.954545455,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0329028
+6502,0289043,28 Days Later (2002),Action|Horror|Sci-Fi,2002,3.974137931,1,0,0,0,0,0,0,0,0,1,0,0,1,0,https://www.imdb.com/title/tt0289043
+6503,0305357,Charlie's Angels: Full Throttle (2003),Action|Adventure|Comedy|Crime|Thriller,2003,2.37037037,1,1,0,0,1,1,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0305357
+6534,0286716,Hulk (2003),Action|Adventure|Sci-Fi,2003,2.560606061,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0286716
+6535,0333780,"Legally Blonde 2: Red, White & Blonde (2003)",Comedy,2003,2.409090909,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0333780
+6537,0181852,Terminator 3: Rise of the Machines (2003),Action|Adventure|Sci-Fi,2003,3.044444444,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0181852
+6539,0325980,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy,2003,3.77852349,1,1,0,0,1,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0325980
+6541,0311429,"League of Extraordinary Gentlemen, The (a.k.a. LXG) (2003)",Action|Fantasy|Sci-Fi,2003,2.625,1,0,0,0,0,0,0,0,1,0,0,0,1,0,https://www.imdb.com/title/tt0311429
+6548,0172156,Bad Boys II (2003),Action|Comedy|Crime|Thriller,2003,2.882352941,1,0,0,0,1,1,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0172156
+6550,0274166,Johnny English (2003),Action|Comedy|Thriller,2003,2.961538462,1,0,0,0,1,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0274166
+6552,0301199,Dirty Pretty Things (2002),Crime|Drama|Thriller,2002,3.625,0,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0301199
+6564,0325703,Lara Croft Tomb Raider: The Cradle of Life (2003),Action|Adventure|Comedy|Romance|Thriller,2003,2.647058824,1,1,0,0,1,0,0,0,0,0,0,1,0,1,https://www.imdb.com/title/tt0325703
+6565,0329575,Seabiscuit (2003),Drama,2003,3.694444444,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0329575
+6586,0328828,American Wedding (American Pie 3) (2003),Comedy,2003,3.09375,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0328828
+6593,0322330,Freaky Friday (2003),Children|Comedy|Fantasy,2003,3.208333333,0,0,0,1,1,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0322330
+6595,0257076,S.W.A.T. (2003),Action|Thriller,2003,3.321428571,1,0,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0257076
+6618,0286112,Shaolin Soccer (Siu lam juk kau) (2001),Action|Comedy,2001,3.823529412,1,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0286112
+6620,0305206,American Splendor (2003),Comedy|Drama,2003,3.833333333,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0305206
+6708,0325805,Matchstick Men (2003),Comedy|Crime|Drama,2003,3.720588235,0,0,0,0,1,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0325805
+6709,0285823,Once Upon a Time in Mexico (2003),Action|Adventure|Crime|Thriller,2003,3.214285714,1,1,0,0,0,1,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0285823
+6711,0335266,Lost in Translation (2003),Comedy|Drama|Romance,2003,4.033783784,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0335266
+6753,0327137,Secondhand Lions (2003),Children|Comedy|Drama,2003,3.5,0,0,0,1,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0327137
+6754,0320691,Underworld (2003),Action|Fantasy|Horror,2003,3.5,1,0,0,0,0,0,0,0,1,1,0,0,0,0,https://www.imdb.com/title/tt0320691
+6755,0281686,Bubba Ho-tep (2002),Comedy|Horror,2002,3.321428571,0,0,0,0,1,0,0,0,0,1,0,0,0,0,https://www.imdb.com/title/tt0281686
+6764,0327850,"Rundown, The (2003)",Action|Adventure|Comedy,2003,3.147058824,1,1,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0327850
+6773,0286244,"Triplets of Belleville, The (Les triplettes de Belleville) (2003)",Animation|Comedy|Fantasy,2003,3.704545455,0,0,1,0,1,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0286244
+6863,0332379,School of Rock (2003),Comedy,2003,3.401515152,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0332379
+6867,0340377,"Station Agent, The (2003)",Comedy|Drama,2003,3.583333333,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0340377
+6870,0327056,Mystic River (2003),Crime|Drama|Mystery,2003,3.711538462,0,0,0,0,0,1,0,1,0,0,1,0,0,0,https://www.imdb.com/title/tt0327056
+6873,0138524,Intolerable Cruelty (2003),Comedy|Romance,2003,3.175,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0138524
+6874,0266697,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller,2003,3.961832061,1,0,0,0,0,1,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0266697
+6879,0313542,Runaway Jury (2003),Drama|Thriller,2003,3.441176471,0,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0313542
+6888,0306047,Scary Movie 3 (2003),Comedy|Horror,2003,2.275,0,0,0,0,1,0,0,0,0,1,0,0,0,0,https://www.imdb.com/title/tt0306047
+6934,0242653,"Matrix Revolutions, The (2003)",Action|Adventure|Sci-Fi|Thriller,2003,3.151898734,1,1,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0242653
+6936,0319343,Elf (2003),Children|Comedy|Fantasy,2003,3.692307692,0,0,0,1,1,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0319343
+6942,0314331,Love Actually (2003),Comedy|Drama|Romance,2003,3.788135593,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0314331
+6947,0311113,Master and Commander: The Far Side of the World (2003),Adventure|Drama,2003,3.638888889,0,1,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0311113
+6953,0315733,21 Grams (2003),Crime|Drama|Mystery|Romance|Thriller,2003,3.3,0,0,0,0,0,1,0,1,0,0,1,1,0,1,https://www.imdb.com/title/tt0315733
+6957,0307987,Bad Santa (2003),Comedy|Crime,2003,3.365384615,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0307987
+6958,0338094,"Haunted Mansion, The (2003)",Children|Comedy|Fantasy|Horror,2003,2.5,0,0,0,1,1,0,0,0,1,1,0,0,0,0,https://www.imdb.com/title/tt0338094
+7090,0299977,Hero (Ying xiong) (2002),Action|Adventure|Drama,2002,3.921052632,1,1,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0299977
+7137,0318374,"Cooler, The (2003)",Comedy|Drama|Romance,2003,3.55,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0318374
+7143,0325710,"Last Samurai, The (2003)",Action|Adventure|Drama,2003,3.903225806,1,1,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0325710
+7147,0319061,Big Fish (2003),Drama|Fantasy|Romance,2003,3.833333333,0,0,0,0,0,0,0,1,1,0,0,1,0,0,https://www.imdb.com/title/tt0319061
+7149,0337741,Something's Gotta Give (2003),Comedy|Drama|Romance,2003,3.647058824,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0337741
+7150,0338466,Stuck on You (2003),Comedy,2003,2.8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0338466
+7151,0335119,Girl with a Pearl Earring (2003),Drama|Romance,2003,3.375,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0335119
+7153,0167260,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy,2003,4.118918919,1,1,0,0,0,0,0,1,1,0,0,0,0,0,https://www.imdb.com/title/tt0167260
+7154,0304415,Mona Lisa Smile (2003),Drama|Romance,2003,2.8,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0304415
+7156,0317910,"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",Documentary,2003,4.307692308,0,0,0,0,0,0,1,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0317910
+7160,0340855,Monster (2003),Crime|Drama,2003,3.529411765,0,0,0,0,0,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0340855
+7162,0159365,Cold Mountain (2003),Drama|Romance,2003,3.291666667,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0159365
+7163,0338337,Paycheck (2003),Action|Sci-Fi|Thriller,2003,2.911764706,1,0,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0338337
+7173,0343135,Along Came Polly (2004),Comedy|Romance,2004,3.041666667,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0343135
+7254,0289879,The Butterfly Effect (2004),Drama|Sci-Fi|Thriller,2004,3.630434783,0,0,0,0,0,0,0,1,0,0,0,0,1,1,https://www.imdb.com/title/tt0289879
+7263,0349825,Miracle (2004),Drama,2004,3.35,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0349825
+7265,0309987,"Dreamers, The (2003)",Drama,2003,3.730769231,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0309987
+7293,0343660,50 First Dates (2004),Comedy|Romance,2004,3.553191489,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0343660
+7317,0356150,EuroTrip (2004),Adventure|Comedy,2004,3.133333333,0,1,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0356150
+7323,0301357,"Good bye, Lenin! (2003)",Comedy|Drama,2003,3.804347826,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0301357
+7324,0317648,Hidalgo (2004),Adventure|Drama,2004,3.318181818,0,1,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0317648
+7325,0335438,Starsky & Hutch (2004),Action|Comedy|Crime|Thriller,2004,3.285714286,1,0,0,0,1,1,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0335438
+7347,0363988,Secret Window (2004),Mystery|Thriller,2004,3.3,0,0,0,0,0,0,0,0,0,0,1,0,0,1,https://www.imdb.com/title/tt0363988
+7360,0363547,Dawn of the Dead (2004),Action|Drama|Horror|Thriller,2004,3.90625,1,0,0,0,0,0,0,1,0,1,0,0,0,1,https://www.imdb.com/title/tt0363547
+7361,0338013,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi,2004,4.160305344,0,0,0,0,0,0,0,1,0,0,0,1,1,0,https://www.imdb.com/title/tt0338013
+7367,0335245,"Ladykillers, The (2004)",Comedy|Crime,2004,2.571428571,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0335245
+7371,0276919,Dogville (2003),Drama|Mystery|Thriller,2003,4.025,0,0,0,0,0,0,0,1,0,0,1,0,0,1,https://www.imdb.com/title/tt0276919
+7373,0167190,Hellboy (2004),Action|Adventure|Fantasy|Horror,2004,3.37804878,1,1,0,0,0,0,0,0,1,1,0,0,0,0,https://www.imdb.com/title/tt0167190
+7438,0378194,Kill Bill: Vol. 2 (2004),Action|Drama|Thriller,2004,3.868181818,1,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0378194
+7439,0330793,"Punisher, The (2004)",Action|Crime|Thriller,2004,3.5,1,0,0,0,0,1,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0330793
+7444,0337563,13 Going on 30 (2004),Comedy|Fantasy|Romance,2004,3.19047619,0,0,0,0,1,0,0,0,1,0,0,1,0,0,https://www.imdb.com/title/tt0337563
+7445,0328107,Man on Fire (2004),Action|Crime|Drama|Mystery|Thriller,2004,3.628571429,1,0,0,0,0,1,0,1,0,0,1,0,0,1,https://www.imdb.com/title/tt0328107
+7451,0377092,Mean Girls (2004),Comedy,2004,3.756410256,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0377092
+7454,0338526,Van Helsing (2004),Action|Adventure|Fantasy|Horror,2004,2.708333333,1,1,0,0,0,0,0,0,1,1,0,0,0,0,https://www.imdb.com/title/tt0338526
+7458,0332452,Troy (2004),Action|Adventure|Drama,2004,3.427083333,1,1,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0332452
+8014,0374546,"Spring, Summer, Fall, Winter... and Spring (Bom yeoreum gaeul gyeoul geurigo bom) (2003)",Drama,2003,4.25,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0374546
+8360,0298148,Shrek 2 (2004),Adventure|Animation|Children|Comedy|Romance,2004,3.576086957,0,1,1,1,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0298148
+8361,0319262,"Day After Tomorrow, The (2004)",Action|Adventure|Drama|Sci-Fi|Thriller,2004,3.05,1,1,0,0,0,0,0,1,0,0,0,0,1,1,https://www.imdb.com/title/tt0319262
+8366,0332375,Saved! (2004),Comedy|Drama,2004,3.892857143,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0332375
+8368,0304141,Harry Potter and the Prisoner of Azkaban (2004),Adventure|Fantasy,2004,3.913978495,0,1,0,0,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0304141
+8370,0363226,"Blind Swordsman: Zatoichi, The (ZatÃ´ichi) (2003)",Action|Comedy|Crime|Drama,2003,3.958333333,1,0,0,0,1,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0363226
+8371,0296572,"Chronicles of Riddick, The (2004)",Action|Sci-Fi|Thriller,2004,3.304347826,1,0,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0296572
+8373,0327162,"Stepford Wives, The (2004)",Comedy|Fantasy|Thriller,2004,2.25,0,0,0,0,1,0,0,0,1,0,0,0,0,1,https://www.imdb.com/title/tt0327162
+8376,0374900,Napoleon Dynamite (2004),Comedy,2004,3.324324324,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0374900
+8464,0390521,Super Size Me (2004),Comedy|Documentary|Drama,2004,3.51,0,0,0,0,1,0,1,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0390521
+8528,0364725,Dodgeball: A True Underdog Story (2004),Comedy,2004,3.551282051,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0364725
+8529,0362227,"Terminal, The (2004)",Comedy|Drama|Romance,2004,3.319148936,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0362227
+8533,0332280,"Notebook, The (2004)",Drama|Romance,2004,3.565789474,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0332280
+8622,0361596,Fahrenheit 9/11 (2004),Documentary,2004,3.486486486,0,0,0,0,0,0,1,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0361596
+8636,0316654,Spider-Man 2 (2004),Action|Adventure|Sci-Fi,2004,3.803797468,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0316654
+8638,0381681,Before Sunset (2004),Drama|Romance,2004,3.7,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0381681
+8640,0349683,King Arthur (2004),Action|Adventure|Drama,2004,2.961538462,1,1,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0349683
+8641,0357413,Anchorman: The Legend of Ron Burgundy (2004),Comedy,2004,3.771929825,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0357413
+8644,0343818,"I, Robot (2004)",Action|Adventure|Sci-Fi|Thriller,2004,3.491803279,1,1,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0343818
+8665,0372183,"Bourne Supremacy, The (2004)",Action|Crime|Thriller,2004,3.786666667,1,0,0,0,0,1,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0372183
+8781,0368008,"Manchurian Candidate, The (2004)",Thriller,2004,3.041666667,0,0,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0368008
+8783,0368447,"Village, The (2004)",Drama|Mystery|Thriller,2004,3.192307692,0,0,0,0,0,0,0,1,0,0,1,0,0,1,https://www.imdb.com/title/tt0368447
+8784,0333766,Garden State (2004),Comedy|Drama|Romance,2004,3.708333333,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0333766
+8798,0369339,Collateral (2004),Action|Crime|Drama|Thriller,2004,3.761363636,1,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0369339
+8807,0366551,Harold and Kumar Go to White Castle (2004),Adventure|Comedy,2004,3.455882353,0,1,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0366551
+8810,0370263,AVP: Alien vs. Predator (2004),Action|Horror|Sci-Fi|Thriller,2004,2.823529412,1,0,0,0,0,0,0,0,0,1,0,0,1,1,https://www.imdb.com/title/tt0370263
+8861,0318627,Resident Evil: Apocalypse (2004),Action|Horror|Sci-Fi|Thriller,2004,2.928571429,1,0,0,0,0,0,0,0,0,1,0,0,1,1,https://www.imdb.com/title/tt0318627
+8865,0346156,Sky Captain and the World of Tomorrow (2004),Action|Adventure|Sci-Fi,2004,2.638888889,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0346156
+8873,0318462,"Motorcycle Diaries, The (Diarios de motocicleta) (2004)",Adventure|Drama,2004,3.796296296,0,1,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0318462
+8874,0365748,Shaun of the Dead (2004),Comedy|Horror,2004,4.006493506,0,0,0,0,1,0,0,0,0,1,0,0,0,0,https://www.imdb.com/title/tt0365748
+8907,0307453,Shark Tale (2004),Animation|Children|Comedy,2004,2.346153846,0,0,1,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0307453
+8910,0356721,I Heart Huckabees (2004),Comedy,2004,3.452380952,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0356721
+8914,0390384,Primer (2004),Drama|Sci-Fi,2004,3.794117647,0,0,0,0,0,0,0,1,0,0,0,0,1,0,https://www.imdb.com/title/tt0390384
+8917,0372588,Team America: World Police (2004),Action|Adventure|Animation|Comedy,2004,3.46875,1,1,1,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0372588
+8947,0391198,"Grudge, The (2004)",Horror|Mystery|Thriller,2004,2.3,0,0,0,0,0,0,0,0,0,1,1,0,0,1,https://www.imdb.com/title/tt0391198
+8949,0375063,Sideways (2004),Comedy|Drama|Romance,2004,3.743589744,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0375063
+8950,0361862,The Machinist (2004),Drama|Mystery|Thriller,2004,3.986842105,0,0,0,0,0,0,0,1,0,0,1,0,0,1,https://www.imdb.com/title/tt0361862
+8957,0387564,Saw (2004),Horror|Mystery|Thriller,2004,3.181818182,0,0,0,0,0,0,0,0,0,1,1,0,0,1,https://www.imdb.com/title/tt0387564
+8958,0350258,Ray (2004),Drama,2004,3.684210526,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0350258
+8961,0317705,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy,2004,3.836,1,1,1,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0317705
+8965,0338348,"Polar Express, The (2004)",Adventure|Animation|Children|Fantasy,2004,3.136363636,0,1,1,1,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0338348
+8969,0317198,Bridget Jones: The Edge of Reason (2004),Comedy|Drama|Romance,2004,3.025,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0317198
+8970,0308644,Finding Neverland (2004),Drama,2004,3.609375,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0308644
+8972,0368891,National Treasure (2004),Action|Adventure|Drama|Mystery|Thriller,2004,3.263157895,1,1,0,0,0,0,0,1,0,0,1,0,0,1,https://www.imdb.com/title/tt0368891
+8977,0346491,Alexander (2004),Action|Adventure|Drama,2004,2.2,1,1,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0346491
+8981,0376541,Closer (2004),Drama|Romance,2004,3.71875,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0376541
+8983,0385004,House of Flying Daggers (Shi mian mai fu) (2004),Action|Drama|Romance,2004,3.52,1,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0385004
+8984,0349903,Ocean's Twelve (2004),Action|Comedy|Crime|Thriller,2004,3.290697674,1,0,0,0,1,1,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0349903
+8985,0359013,Blade: Trinity (2004),Action|Fantasy|Horror|Thriller,2004,2.857142857,1,0,0,0,0,0,0,0,1,1,0,0,0,1,https://www.imdb.com/title/tt0359013
+27611,0314979,Battlestar Galactica (2003),Drama|Sci-Fi,2003,3.815789474,0,0,0,0,0,0,0,1,0,0,0,0,1,0,https://www.imdb.com/title/tt0314979
+27660,0328832,"Animatrix, The (2003)",Action|Animation|Drama|Sci-Fi,2003,3.7,1,0,1,0,0,0,0,1,0,0,0,0,1,0,https://www.imdb.com/title/tt0328832
+27706,0339291,Lemony Snicket's A Series of Unfortunate Events (2004),Adventure|Children|Comedy|Fantasy,2004,3.16,0,1,0,1,1,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0339291
+27773,0364569,Old Boy (2003),Mystery|Thriller,2003,4.08974359,0,0,0,0,0,0,0,0,0,0,1,0,0,1,https://www.imdb.com/title/tt0364569
+27801,0368909,Ong-Bak: The Thai Warrior (Ong Bak) (2003),Action|Thriller,2003,4.0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0368909
+27808,0371246,Spanglish (2004),Comedy|Drama|Romance,2004,3.363636364,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0371246
+27815,0372824,"Chorus, The (Choristes, Les) (2004)",Drama,2004,3.909090909,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0372824
+27831,0375912,Layer Cake (2004),Crime|Drama|Thriller,2004,3.815789474,0,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0375912
+27846,0379225,"Corporation, The (2003)",Documentary,2003,3.9,0,0,0,0,0,0,1,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0379225
+27904,0405296,"Scanner Darkly, A (2006)",Animation|Drama|Mystery|Sci-Fi|Thriller,2006,3.613636364,0,0,1,0,0,0,0,1,0,0,1,0,1,1,https://www.imdb.com/title/tt0405296
+30707,0405159,Million Dollar Baby (2004),Drama,2004,3.846153846,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0405159
+30749,0395169,Hotel Rwanda (2004),Drama,2004,3.791666667,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0395169
+30793,0367594,Charlie and the Chocolate Factory (2005),Adventure|Children|Comedy|Fantasy,2005,3.0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0367594
+30810,0362270,"Life Aquatic with Steve Zissou, The (2004)",Adventure|Comedy|Fantasy,2004,3.486486486,0,1,0,0,1,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0362270
+30812,0338751,"Aviator, The (2004)",Drama,2004,3.528571429,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0338751
+30816,0293508,"Phantom of the Opera, The (2004)",Drama|Romance,2004,3.166666667,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0293508
+30822,0385267,In Good Company (2004),Comedy|Drama,2004,3.454545455,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0385267
+30825,0290002,Meet the Fockers (2004),Comedy,2004,3.106060606,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0290002
+31221,0357277,Elektra (2005),Action|Adventure|Crime|Drama,2005,2.05,1,1,0,0,0,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0357277
+31410,0363163,"Downfall (Untergang, Der) (2004)",Drama,2004,3.875,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0363163
+31433,0372532,"Wedding Date, The (2005)",Comedy|Romance,2005,3.136363636,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0372532
+31658,0347149,Howl's Moving Castle (Hauru no ugoku shiro) (2004),Adventure|Animation|Fantasy|Romance,2004,4.075,0,1,1,0,0,0,0,0,1,0,0,1,0,0,https://www.imdb.com/title/tt0347149
+31685,0386588,Hitch (2005),Comedy|Romance,2005,3.166666667,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0386588
+31696,0360486,Constantine (2005),Action|Fantasy|Horror|Thriller,2005,3.471428571,1,0,0,0,0,0,0,0,1,1,0,0,0,1,https://www.imdb.com/title/tt0360486
+31878,0373074,Kung Fu Hustle (Gong fu) (2004),Action|Comedy,2004,3.578947368,1,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0373074
+32029,0340163,Hostage (2005),Action|Crime|Drama|Thriller,2005,3.05,1,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0340163
+32031,0358082,Robots (2005),Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi,2005,3.026315789,0,1,1,1,1,0,0,0,1,0,0,0,1,0,https://www.imdb.com/title/tt0358082
+32587,0401792,Sin City (2005),Action|Crime|Mystery|Thriller,2005,3.857142857,1,0,0,0,0,1,0,0,0,0,1,0,0,1,https://www.imdb.com/title/tt0401792
+33004,0371724,"Hitchhiker's Guide to the Galaxy, The (2005)",Adventure|Comedy|Sci-Fi,2005,3.420454545,0,1,0,0,1,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0371724
+33162,0320661,Kingdom of Heaven (2005),Action|Drama|Romance,2005,3.5,1,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0320661
+33166,0375679,Crash (2004),Crime|Drama,2004,3.89,0,0,0,0,0,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0375679
+33493,0121766,Star Wars: Episode III - Revenge of the Sith (2005),Action|Adventure|Sci-Fi,2005,3.429487179,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0121766
+33615,0351283,Madagascar (2005),Adventure|Animation|Children|Comedy,2005,3.375,0,1,1,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0351283
+33660,0352248,Cinderella Man (2005),Drama|Romance,2005,4.088235294,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0352248
+33679,0356910,Mr. & Mrs. Smith (2005),Action|Adventure|Comedy|Romance,2005,3.279661017,1,1,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0356910
+33794,0372784,Batman Begins (2005),Action|Crime,2005,3.862068966,1,0,0,0,0,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0372784
+33836,0374536,Bewitched (2005),Comedy|Fantasy|Romance,2005,2.269230769,0,0,0,0,1,0,0,0,1,0,0,1,0,0,https://www.imdb.com/title/tt0374536
+34048,0407304,War of the Worlds (2005),Action|Adventure|Sci-Fi|Thriller,2005,3.15,1,1,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0407304
+34072,0428803,"March of the Penguins (Marche de l'empereur, La) (2005)",Documentary,2005,3.555555556,0,0,0,0,0,0,1,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0428803
+34150,0120667,Fantastic Four (2005),Action|Adventure|Sci-Fi,2005,2.763888889,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0120667
+34162,0396269,Wedding Crashers (2005),Comedy|Romance,2005,3.50862069,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0396269
+34319,0399201,"Island, The (2005)",Action|Sci-Fi|Thriller,2005,3.35483871,1,0,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0399201
+34405,0379786,Serenity (2005),Action|Adventure|Sci-Fi,2005,3.94,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0379786
+34437,0412019,Broken Flowers (2005),Comedy|Drama,2005,3.476190476,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0412019
+34520,0377818,"Dukes of Hazzard, The (2005)",Action|Adventure|Comedy,2005,2.083333333,1,1,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0377818
+35836,0405422,"40-Year-Old Virgin, The (2005)",Comedy|Romance,2005,3.547297297,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0405422
+36401,0355295,"Brothers Grimm, The (2005)",Comedy|Fantasy|Horror|Thriller,2005,2.625,0,0,0,0,1,0,0,0,1,1,0,0,0,1,https://www.imdb.com/title/tt0355295
+36517,0387131,"Constant Gardener, The (2005)",Drama|Thriller,2005,3.461538462,0,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0387131
+36519,0388482,Transporter 2 (2005),Action|Crime|Thriller,2005,3.21875,1,0,0,0,0,1,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0388482
+36529,0399295,Lord of War (2005),Action|Crime|Drama|Thriller,2005,3.714285714,1,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0399295
+36708,0385690,Family Guy Presents Stewie Griffin: The Untold Story (2005),Adventure|Animation|Comedy,2005,3.708333333,0,1,1,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0385690
+37380,0419706,Doom (2005),Action|Horror|Sci-Fi,2005,2.15,1,0,0,0,0,0,0,0,0,1,0,0,1,0,https://www.imdb.com/title/tt0419706
+37384,0348333,Waiting... (2005),Comedy,2005,3.269230769,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0348333
+37386,0402022,Aeon Flux (2005),Action|Sci-Fi,2005,2.761904762,1,0,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0402022
+37727,0408790,Flightplan (2005),Action|Drama|Thriller,2005,2.863636364,1,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0408790
+37729,0121164,Corpse Bride (2005),Animation|Comedy|Fantasy|Romance,2005,3.534090909,0,0,1,0,1,0,0,0,1,0,0,1,0,0,https://www.imdb.com/title/tt0121164
+37733,0399146,"History of Violence, A (2005)",Action|Crime|Drama|Thriller,2005,3.5,1,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0399146
+37741,0379725,Capote (2005),Crime|Drama,2005,3.869565217,0,0,0,0,0,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0379725
+37830,0385700,Final Fantasy VII: Advent Children (2004),Action|Adventure|Animation|Fantasy|Sci-Fi,2004,3.55,1,1,1,0,0,0,0,0,1,0,0,0,1,0,https://www.imdb.com/title/tt0385700
+38038,0312004,Wallace & Gromit in The Curse of the Were-Rabbit (2005),Adventure|Animation|Children|Comedy,2005,3.633333333,0,1,1,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0312004
+38061,0373469,Kiss Kiss Bang Bang (2005),Comedy|Crime|Mystery|Thriller,2005,4.071428571,0,0,0,0,1,1,0,0,0,0,1,0,0,1,https://www.imdb.com/title/tt0373469
+39183,0388795,Brokeback Mountain (2005),Drama|Romance,2005,3.558823529,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0388795
+39292,0433383,"Good Night, and Good Luck. (2005)",Crime|Drama,2005,3.775,0,0,0,0,0,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0433383
+39446,0432348,Saw II (2005),Horror|Thriller,2005,2.807692308,0,0,0,0,0,0,0,0,0,1,0,0,0,1,https://www.imdb.com/title/tt0432348
+40278,0418763,Jarhead (2005),Action|Drama,2005,3.676470588,1,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0418763
+40583,0365737,Syriana (2005),Drama|Thriller,2005,3.53125,0,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0365737
+40629,0414387,Pride & Prejudice (2005),Drama|Romance,2005,3.555555556,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0414387
+40732,0435625,"Descent, The (2005)",Adventure|Drama|Horror|Thriller,2005,3.545454545,0,1,0,0,0,0,0,1,0,1,0,0,0,1,https://www.imdb.com/title/tt0435625
+40815,0330373,Harry Potter and the Goblet of Fire (2005),Adventure|Fantasy|Thriller,2005,3.816901408,0,1,0,0,0,0,0,0,1,0,0,0,0,1,https://www.imdb.com/title/tt0330373
+40819,0358273,Walk the Line (2005),Drama|Romance,2005,3.756410256,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0358273
+40826,0294870,Rent (2005),Drama|Romance,2005,3.15,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0294870
+41285,0416320,Match Point (2005),Crime|Drama|Romance,2005,3.441176471,0,0,0,0,0,1,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0416320
+41566,0363771,"Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The (2005)",Adventure|Children|Fantasy,2005,3.443548387,0,1,0,1,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0363771
+41569,0360717,King Kong (2005),Action|Adventure|Drama|Fantasy|Thriller,2005,3.4,1,1,0,0,0,0,0,1,1,0,0,0,0,1,https://www.imdb.com/title/tt0360717
+41997,0408306,Munich (2005),Action|Crime|Drama|Thriller,2005,3.80952381,1,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0408306
+42011,0369441,Fun with Dick and Jane (2005),Comedy|Crime,2005,2.181818182,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0369441
+42723,0450278,Hostel (2005),Horror,2005,2.863636364,0,0,0,0,0,0,0,0,0,1,0,0,0,0,https://www.imdb.com/title/tt0450278
+42738,0401855,Underworld: Evolution (2006),Action|Fantasy|Horror,2006,3.09375,1,0,0,0,0,0,0,0,1,1,0,0,0,0,https://www.imdb.com/title/tt0401855
+43928,0370032,Ultraviolet (2006),Action|Fantasy|Sci-Fi|Thriller,2006,1.923076923,1,0,0,0,0,0,0,0,1,0,0,0,1,1,https://www.imdb.com/title/tt0370032
+44022,0438097,Ice Age 2: The Meltdown (2006),Adventure|Animation|Children|Comedy,2006,3.217391304,0,1,1,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0438097
+44191,0434409,V for Vendetta (2006),Action|Sci-Fi|Thriller,2006,3.885,1,0,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0434409
+44195,0427944,Thank You for Smoking (2006),Comedy|Drama,2006,4.027777778,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0427944
+44199,0454848,Inside Man (2006),Crime|Drama|Thriller,2006,3.8,0,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0454848
+44555,0405094,"Lives of Others, The (Das leben der Anderen) (2006)",Drama|Romance|Thriller,2006,4.117647059,0,0,0,0,0,0,0,1,0,0,0,1,0,1,https://www.imdb.com/title/tt0405094
+44665,0425210,Lucky Number Slevin (2006),Crime|Drama|Mystery,2006,3.855263158,0,0,0,0,0,1,0,1,0,0,1,0,0,0,https://www.imdb.com/title/tt0425210
+44761,0393109,Brick (2005),Crime|Drama|Mystery,2005,3.875,0,0,0,0,0,1,0,1,0,0,1,0,0,0,https://www.imdb.com/title/tt0393109
+44840,0437863,"Benchwarmers, The (2006)",Comedy,2006,2.772727273,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0437863
+44972,0362120,Scary Movie 4 (2006),Comedy|Horror,2006,2.25,0,0,0,0,1,0,0,0,0,1,0,0,0,0,https://www.imdb.com/title/tt0362120
+44974,0424136,Hard Candy (2005),Drama|Thriller,2005,3.5,0,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0424136
+45081,0384537,Silent Hill (2006),Fantasy|Horror|Thriller,2006,2.958333333,0,0,0,0,0,0,0,0,1,1,0,0,0,1,https://www.imdb.com/title/tt0384537
+45186,0317919,Mission: Impossible III (2006),Action|Adventure|Thriller,2006,3.589285714,1,1,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0317919
+45431,0327084,Over the Hedge (2006),Adventure|Animation|Children|Comedy,2006,3.428571429,0,1,1,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0327084
+45447,0382625,"Da Vinci Code, The (2006)",Drama|Mystery|Thriller,2006,3.12244898,0,0,0,0,0,0,0,1,0,0,1,0,0,1,https://www.imdb.com/title/tt0382625
+45499,0376994,X-Men: The Last Stand (2006),Action|Sci-Fi|Thriller,2006,3.355769231,1,0,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0376994
+45501,0452594,"Break-Up, The (2006)",Comedy|Drama|Romance,2006,2.590909091,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0452594
+45517,0317219,Cars (2006),Animation|Children|Comedy,2006,3.37804878,0,0,1,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0317219
+45666,0457510,Nacho Libre (2006),Comedy,2006,2.464285714,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0457510
+45668,0410297,"Lake House, The (2006)",Drama|Fantasy|Romance,2006,3.1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,https://www.imdb.com/title/tt0410297
+45672,0389860,Click (2006),Adventure|Comedy|Drama|Fantasy|Romance,2006,2.97826087,0,1,0,0,1,0,0,1,1,0,0,1,0,0,https://www.imdb.com/title/tt0389860
+45720,0458352,"Devil Wears Prada, The (2006)",Comedy|Drama,2006,3.558823529,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0458352
+45722,0383574,Pirates of the Caribbean: Dead Man's Chest (2006),Action|Adventure|Fantasy,2006,3.506944444,1,1,0,0,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0383574
+45728,0424345,Clerks II (2006),Comedy,2006,3.884615385,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0424345
+45880,0422720,Marie Antoinette (2006),Drama|Romance,2006,3.192307692,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0422720
+45950,0497116,"Inconvenient Truth, An (2006)",Documentary,2006,3.576923077,0,0,0,0,0,0,1,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0497116
+46335,0463985,"Fast and the Furious: Tokyo Drift, The (Fast and the Furious 3, The) (2006)",Action|Crime|Drama|Thriller,2006,2.090909091,1,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0463985
+46530,0348150,Superman Returns (2006),Action|Adventure|Sci-Fi,2006,3.08,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0348150
+46578,0449059,Little Miss Sunshine (2006),Adventure|Comedy|Drama,2006,3.883116883,0,1,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0449059
+46723,0449467,Babel (2006),Drama|Thriller,2006,3.5,0,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0449467
+46965,0417148,Snakes on a Plane (2006),Action|Comedy|Horror|Thriller,2006,2.642857143,1,0,0,0,1,0,0,0,0,1,0,0,0,1,https://www.imdb.com/title/tt0417148
+46970,0415306,Talladega Nights: The Ballad of Ricky Bobby (2006),Action|Comedy,2006,3.25,1,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0415306
+46972,0477347,Night at the Museum (2006),Action|Comedy|Fantasy,2006,3.239130435,1,0,0,0,1,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0477347
+46976,0420223,Stranger than Fiction (2006),Comedy|Drama|Fantasy|Romance,2006,3.693181818,0,0,0,0,1,0,0,1,1,0,0,1,0,0,https://www.imdb.com/title/tt0420223
+47044,0430357,Miami Vice (2006),Action|Crime|Drama|Thriller,2006,2.75,1,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0430357
+47099,0454921,"Pursuit of Happyness, The (2006)",Drama,2006,3.793478261,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0454921
+47200,0479884,Crank (2006),Action|Thriller,2006,3.428571429,1,0,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0479884
+47518,0384793,Accepted (2006),Comedy,2006,2.928571429,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0384793
+47610,0443543,"Illusionist, The (2006)",Drama|Fantasy|Mystery|Romance,2006,3.779069767,0,0,0,0,0,0,0,1,1,0,1,1,0,0,https://www.imdb.com/title/tt0443543
+47629,0436697,The Queen (2006),Drama,2006,3.730769231,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0436697
+47997,0387808,Idiocracy (2006),Adventure|Comedy|Sci-Fi|Thriller,2006,3.722222222,0,1,0,0,1,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0387808
+48043,0414993,"Fountain, The (2006)",Drama|Fantasy|Romance,2006,3.5,0,0,0,0,0,0,0,1,1,0,0,1,0,0,https://www.imdb.com/title/tt0414993
+48082,0354899,"Science of Sleep, The (La science des rÃªves) (2006)",Comedy|Drama|Fantasy|Romance,2006,3.863636364,0,0,0,0,1,0,0,1,1,0,0,1,0,0,https://www.imdb.com/title/tt0354899
+48304,0472043,Apocalypto (2006),Adventure|Drama|Thriller,2006,3.605263158,0,1,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0472043
+48385,0443453,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006),Comedy,2006,3.346153846,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0443453
+48394,0457430,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",Drama|Fantasy|Thriller,2006,3.814814815,0,0,0,0,0,0,0,1,1,0,0,0,0,1,https://www.imdb.com/title/tt0457430
+48516,0407887,"Departed, The (2006)",Crime|Drama|Thriller,2006,4.252336449,0,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0407887
+48738,0455590,"Last King of Scotland, The (2006)",Drama|Thriller,2006,3.975,0,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0455590
+48774,0206634,Children of Men (2006),Action|Adventure|Drama|Sci-Fi|Thriller,2006,3.9453125,1,1,0,0,0,0,0,1,0,0,0,0,1,1,https://www.imdb.com/title/tt0206634
+48780,0482571,"Prestige, The (2006)",Drama|Mystery|Sci-Fi|Thriller,2006,4.005555556,0,0,0,0,0,0,0,1,0,0,1,0,1,1,https://www.imdb.com/title/tt0482571
+48783,0418689,Flags of Our Fathers (2006),Drama,2006,3.454545455,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0418689
+48877,0489270,Saw III (2006),Crime|Horror|Thriller,2006,3.045454545,0,0,0,0,0,1,0,0,0,1,0,0,0,1,https://www.imdb.com/title/tt0489270
+49272,0381061,Casino Royale (2006),Action|Adventure|Thriller,2006,3.944444444,1,1,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0381061
+49274,0366548,Happy Feet (2006),Adventure|Animation|Children|Comedy,2006,2.681818182,0,1,1,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0366548
+49278,0453467,DÃ©jÃ  Vu (Deja Vu) (2006),Action|Sci-Fi|Thriller,2006,3.3,1,0,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0453467
+49286,0457939,"Holiday, The (2006)",Comedy|Romance,2006,3.208333333,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0457939
+49530,0450259,Blood Diamond (2006),Action|Adventure|Crime|Drama|Thriller,2006,3.764150943,1,1,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0450259
+49649,0449010,Eragon (2006),Action|Adventure|Fantasy,2006,2.333333333,1,1,0,0,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0449010
+49651,0479143,Rocky Balboa (2006),Action|Drama,2006,3.321428571,1,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0479143
+50068,0498380,Letters from Iwo Jima (2006),Drama,2006,3.705882353,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0498380
+50794,0475394,Smokin' Aces (2006),Action|Crime|Drama|Thriller,2006,3.1,1,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0475394
+50872,0382932,Ratatouille (2007),Animation|Children|Drama,2007,3.868055556,0,0,1,1,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0382932
+51077,0259324,Ghost Rider (2007),Action|Fantasy|Thriller,2007,2.25,1,0,0,0,0,0,0,0,1,0,0,0,0,1,https://www.imdb.com/title/tt0259324
+51084,0758766,Music and Lyrics (2007),Comedy|Romance,2007,3.1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0758766
+51086,0481369,"Number 23, The (2007)",Drama|Mystery|Thriller,2007,2.928571429,0,0,0,0,0,0,0,1,0,0,1,0,0,1,https://www.imdb.com/title/tt0481369
+51255,0425112,Hot Fuzz (2007),Action|Comedy|Crime|Mystery,2007,4.0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,https://www.imdb.com/title/tt0425112
+51412,0435705,Next (2007),Action|Sci-Fi|Thriller,2007,2.821428571,1,0,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0435705
+51540,0443706,Zodiac (2007),Crime|Drama|Thriller,2007,3.710526316,0,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0443706
+51662,0416449,300 (2007),Action|Fantasy,2007,3.68125,1,0,0,0,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0416449
+51935,0822854,Shooter (2007),Action|Drama|Thriller,2007,3.86,1,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0822854
+52245,0445934,Blades of Glory (2007),Comedy|Romance,2007,3.088235294,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0445934
+52281,0462322,Grindhouse (2007),Action|Crime|Horror|Sci-Fi|Thriller,2007,3.425925926,1,0,0,0,0,1,0,0,0,1,0,0,1,1,https://www.imdb.com/title/tt0462322
+52287,0396555,Meet the Robinsons (2007),Action|Adventure|Animation|Children|Comedy|Sci-Fi,2007,3.545454545,1,1,1,1,1,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0396555
+52328,0448134,Sunshine (2007),Adventure|Drama|Sci-Fi|Thriller,2007,3.642857143,0,1,0,0,0,0,0,1,0,0,0,0,1,1,https://www.imdb.com/title/tt0448134
+52458,0486822,Disturbia (2007),Drama|Thriller,2007,3.15,0,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0486822
+52604,0488120,Fracture (2007),Crime|Drama|Mystery|Thriller,2007,3.666666667,0,0,0,0,0,1,0,1,0,0,1,0,0,1,https://www.imdb.com/title/tt0488120
+52722,0413300,Spider-Man 3 (2007),Action|Adventure|Sci-Fi|Thriller,2007,3.0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0413300
+52973,0478311,Knocked Up (2007),Comedy|Drama|Romance,2007,3.653846154,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0478311
+52975,0427327,Hairspray (2007),Comedy|Drama,2007,3.5,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0427327
+53000,0463854,28 Weeks Later (2007),Horror|Sci-Fi|Thriller,2007,3.595238095,0,0,0,0,0,0,0,0,0,1,0,0,1,1,https://www.imdb.com/title/tt0463854
+53121,0413267,Shrek the Third (2007),Adventure|Animation|Children|Comedy|Fantasy,2007,3.023809524,0,1,1,1,1,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0413267
+53125,0449088,Pirates of the Caribbean: At World's End (2007),Action|Adventure|Comedy|Fantasy,2007,3.4375,1,1,0,0,1,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0449088
+53322,0496806,Ocean's Thirteen (2007),Crime|Thriller,2007,3.484848485,0,0,0,0,0,1,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0496806
+53464,0486576,Fantastic Four: Rise of the Silver Surfer (2007),Action|Adventure|Sci-Fi,2007,2.575,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0486576
+53519,1028528,Death Proof (2007),Action|Adventure|Crime|Horror|Thriller,2007,3.134615385,1,1,0,0,0,1,0,0,0,1,0,0,0,1,https://www.imdb.com/title/tt1028528
+53894,0386032,Sicko (2007),Documentary|Drama,2007,3.714285714,0,0,0,0,0,0,1,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0386032
+53953,0450385,1408 (2007),Drama|Horror|Thriller,2007,3.16,0,0,0,0,0,0,0,1,0,1,0,0,0,1,https://www.imdb.com/title/tt0450385
+53972,0337978,Live Free or Die Hard (2007),Action|Adventure|Crime|Thriller,2007,3.40625,1,1,0,0,0,1,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0337978
+53993,0413099,Evan Almighty (2007),Comedy|Fantasy,2007,2.538461538,0,0,0,0,1,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0413099
+53996,0418279,Transformers (2007),Action|Sci-Fi|Thriller,2007,3.346153846,1,0,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0418279
+54001,0373889,Harry Potter and the Order of the Phoenix (2007),Adventure|Drama|Fantasy,2007,3.862068966,0,1,0,0,0,0,0,1,1,0,0,0,0,0,https://www.imdb.com/title/tt0373889
+54004,0762107,I Now Pronounce You Chuck and Larry (2007),Comedy|Romance,2007,3.454545455,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0762107
+54190,0445922,Across the Universe (2007),Drama|Fantasy|Romance,2007,4.045454545,0,0,0,0,0,0,0,1,1,0,0,1,0,0,https://www.imdb.com/title/tt0445922
+54259,0486655,Stardust (2007),Adventure|Comedy|Fantasy|Romance,2007,3.602941176,0,1,0,0,1,0,0,0,1,0,0,1,0,0,https://www.imdb.com/title/tt0486655
+54272,0462538,"Simpsons Movie, The (2007)",Animation|Comedy,2007,3.619565217,0,0,1,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0462538
+54286,0440963,"Bourne Ultimatum, The (2007)",Action|Crime|Thriller,2007,3.697530864,1,0,0,0,0,1,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0440963
+54503,0829482,Superbad (2007),Comedy,2007,3.863636364,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0829482
+54881,0923752,"King of Kong, The (2007)",Documentary,2007,3.916666667,0,0,0,0,0,0,1,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0923752
+54995,1077258,Planet Terror (2007),Action|Horror|Sci-Fi,2007,3.795454545,1,0,0,0,0,0,0,0,0,1,0,0,1,0,https://www.imdb.com/title/tt1077258
+54997,0381849,3:10 to Yuma (2007),Action|Crime|Drama,2007,4.06,1,0,0,0,0,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0381849
+54999,0465602,Shoot 'Em Up (2007),Action|Comedy|Crime,2007,3.458333333,1,0,0,0,1,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0465602
+55052,0783233,Atonement (2007),Drama|Romance,2007,3.538461538,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0783233
+55118,0765443,Eastern Promises (2007),Crime|Drama|Thriller,2007,4.026315789,0,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0765443
+55232,0432021,Resident Evil: Extinction (2007),Action|Horror|Sci-Fi|Thriller,2007,2.95,1,0,0,0,0,0,0,0,0,1,0,0,1,1,https://www.imdb.com/title/tt0432021
+55247,0758758,Into the Wild (2007),Action|Adventure|Drama,2007,3.902439024,1,1,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0758758
+55269,0838221,"Darjeeling Limited, The (2007)",Adventure|Comedy|Drama,2007,3.428571429,0,1,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0838221
+55276,0465538,Michael Clayton (2007),Drama|Thriller,2007,3.911764706,0,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0465538
+55282,0389722,30 Days of Night (2007),Horror|Thriller,2007,3.181818182,0,0,0,0,0,0,0,0,0,1,0,0,0,1,https://www.imdb.com/title/tt0389722
+55290,0452623,Gone Baby Gone (2007),Crime|Drama|Mystery,2007,3.45,0,0,0,0,0,1,0,1,0,0,1,0,0,0,https://www.imdb.com/title/tt0452623
+55363,0443680,"Assassination of Jesse James by the Coward Robert Ford, The (2007)",Crime|Drama,2007,4.1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0443680
+55442,0808417,Persepolis (2007),Animation|Drama,2007,4.181818182,0,0,1,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0808417
+55721,0861739,Elite Squad (Tropa de Elite) (2007),Action|Crime|Drama|Thriller,2007,4.3,1,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0861739
+55765,0765429,American Gangster (2007),Crime|Drama|Thriller,2007,3.905405405,0,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0765429
+55768,0389790,Bee Movie (2007),Animation|Comedy,2007,3.15,0,0,1,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0389790
+55820,0477348,No Country for Old Men (2007),Crime|Drama,2007,3.8984375,0,0,0,0,0,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0477348
+55830,0799934,Be Kind Rewind (2008),Comedy,2008,3.4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0799934
+56145,0884328,"Mist, The (2007)",Horror|Sci-Fi,2007,3.428571429,0,0,0,0,0,0,0,0,0,1,0,0,1,0,https://www.imdb.com/title/tt0884328
+56152,0461770,Enchanted (2007),Adventure|Animation|Children|Comedy|Fantasy|Romance,2007,3.676470588,0,1,1,1,1,0,0,0,1,0,0,1,0,0,https://www.imdb.com/title/tt0461770
+56171,0385752,"Golden Compass, The (2007)",Adventure|Children|Fantasy,2007,3.111111111,0,1,0,1,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0385752
+56174,0480249,I Am Legend (2007),Action|Horror|Sci-Fi|Thriller,2007,3.483870968,1,0,0,0,0,0,0,0,0,1,0,0,1,1,https://www.imdb.com/title/tt0480249
+56251,0471711,Futurama: Bender's Big Score (2007),Animation|Comedy|Sci-Fi,2007,3.9,0,0,1,0,1,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0471711
+56367,0467406,Juno (2007),Comedy|Drama|Romance,2007,3.769230769,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0467406
+56587,0825232,"Bucket List, The (2007)",Comedy|Drama,2007,3.230769231,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0825232
+56757,0408236,Sweeney Todd: The Demon Barber of Fleet Street (2007),Drama|Horror|Thriller,2007,3.716666667,0,0,0,0,0,0,0,1,0,1,0,0,0,1,https://www.imdb.com/title/tt0408236
+56775,0465234,National Treasure: Book of Secrets (2007),Action|Adventure,2007,3.041666667,1,1,0,0,0,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0465234
+56782,0469494,There Will Be Blood (2007),Drama,2007,4.142857143,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0469494
+56941,0431308,P.S. I Love You (2007),Comedy|Drama|Romance,2007,3.090909091,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0431308
+56949,0988595,27 Dresses (2008),Comedy|Romance,2008,3.3,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0988595
+57368,1060277,Cloverfield (2008),Action|Mystery|Sci-Fi|Thriller,2008,3.351851852,1,0,0,0,0,0,0,0,0,0,1,0,1,1,https://www.imdb.com/title/tt1060277
+57504,0808506,"Girl Who Leapt Through Time, The (Toki o kakeru shÃ´jo) (2006)",Animation|Comedy|Drama|Romance|Sci-Fi,2006,4.1,0,0,1,0,1,0,0,1,0,0,0,1,1,0,https://www.imdb.com/title/tt0808506
+57640,0411477,Hellboy II: The Golden Army (2008),Action|Adventure|Fantasy|Sci-Fi,2008,3.805555556,1,1,0,0,0,0,0,0,1,0,0,0,1,0,https://www.imdb.com/title/tt0411477
+57669,0780536,In Bruges (2008),Comedy|Crime|Drama|Thriller,2008,4.158536585,0,0,0,0,1,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0780536
+58025,0489099,Jumper (2008),Action|Adventure|Drama|Sci-Fi|Thriller,2008,3.0,1,1,0,0,0,0,0,1,0,0,0,0,1,1,https://www.imdb.com/title/tt0489099
+58047,0832266,"Definitely, Maybe (2008)",Comedy|Drama|Romance,2008,3.428571429,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0832266
+58156,0839980,Semi-Pro (2008),Comedy,2008,2.9,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0839980
+58293,0443649,"10,000 BC (2008)",Adventure|Romance|Thriller,2008,2.705882353,0,1,0,0,0,0,0,0,0,0,0,1,0,1,https://www.imdb.com/title/tt0443649
+58295,0200465,"Bank Job, The (2008)",Action|Crime|Thriller,2008,3.615384615,1,0,0,0,0,1,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0200465
+58559,0468569,"Dark Knight, The (2008)",Action|Crime|Drama,2008,4.238255034,1,0,0,0,0,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0468569
+58803,0478087,21 (2008),Crime|Drama|Romance|Thriller,2008,3.75,0,0,0,0,0,1,0,1,0,0,0,1,0,1,https://www.imdb.com/title/tt0478087
+58998,0800039,Forgetting Sarah Marshall (2008),Comedy|Romance,2008,3.769230769,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0800039
+59022,0481536,Harold & Kumar Escape from Guantanamo Bay (2008),Adventure|Comedy,2008,3.307692308,0,1,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0481536
+59258,0871426,Baby Mama (2008),Comedy,2008,3.136363636,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0871426
+59315,0371746,Iron Man (2008),Action|Adventure|Sci-Fi,2008,3.824468085,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0371746
+59369,0936501,Taken (2008),Action|Crime|Drama|Thriller,2008,3.619047619,1,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0936501
+59387,0460791,"Fall, The (2006)",Adventure|Drama|Fantasy,2006,3.954545455,0,1,0,0,0,0,0,1,1,0,0,0,0,0,https://www.imdb.com/title/tt0460791
+59501,0499448,"Chronicles of Narnia: Prince Caspian, The (2008)",Adventure|Children|Fantasy,2008,3.541666667,0,1,0,1,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0499448
+59615,0367882,Indiana Jones and the Kingdom of the Crystal Skull (2008),Action|Adventure|Comedy|Sci-Fi,2008,2.833333333,1,1,0,0,1,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0367882
+59725,1000774,Sex and the City (2008),Comedy|Romance,2008,2.409090909,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt1000774
+59784,0441773,Kung Fu Panda (2008),Action|Animation|Children|Comedy,2008,3.444444444,1,0,1,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0441773
+59900,0960144,You Don't Mess with the Zohan (2008),Comedy,2008,2.866666667,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0960144
+60040,0800080,"Incredible Hulk, The (2008)",Action|Sci-Fi,2008,3.171428571,1,0,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0800080
+60069,0910970,WALLÂ·E (2008),Adventure|Animation|Children|Romance|Sci-Fi,2008,4.057692308,0,1,1,1,0,0,0,0,0,0,0,1,1,0,https://www.imdb.com/title/tt0910970
+60072,0493464,Wanted (2008),Action|Thriller,2008,3.159090909,1,0,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0493464
+60074,0448157,Hancock (2008),Action|Adventure|Comedy|Crime|Fantasy,2008,3.034482759,1,1,0,0,1,1,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0448157
+60126,0425061,Get Smart (2008),Action|Comedy,2008,3.46875,1,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0425061
+60397,0795421,Mamma Mia! (2008),Comedy|Romance,2008,2.964285714,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt0795421
+60684,0409459,Watchmen (2009),Action|Drama|Mystery|Sci-Fi|Thriller,2009,3.988372093,1,0,0,0,0,0,0,1,0,0,1,0,1,1,https://www.imdb.com/title/tt0409459
+60756,0838283,Step Brothers (2008),Comedy,2008,3.553571429,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0838283
+60950,0497465,Vicky Cristina Barcelona (2008),Comedy|Drama|Romance,2008,3.09375,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0497465
+61024,0910936,Pineapple Express (2008),Action|Comedy|Crime,2008,3.677419355,1,0,0,0,1,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0910936
+61132,0942385,Tropic Thunder (2008),Action|Adventure|Comedy,2008,3.5,1,1,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0942385
+61240,1139797,Let the Right One In (LÃ¥t den rÃ¤tte komma in) (2008),Drama|Fantasy|Horror|Romance,2008,3.911764706,0,0,0,0,0,0,0,1,1,1,0,1,0,0,https://www.imdb.com/title/tt1139797
+61323,0887883,Burn After Reading (2008),Comedy|Crime|Drama,2008,3.487179487,0,0,0,0,1,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0887883
+62155,0981227,Nick and Norah's Infinite Playlist (2008),Comedy|Drama|Romance,2008,3.35,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt0981227
+62374,0758774,Body of Lies (2008),Action|Drama|Thriller,2008,3.772727273,1,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0758774
+62849,1032755,RocknRolla (2008),Action|Crime,2008,3.769230769,1,0,0,0,0,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1032755
+62999,0479952,Madagascar: Escape 2 Africa (2008),Action|Adventure|Animation|Children|Comedy,2008,3.692307692,1,1,1,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0479952
+63082,1010048,Slumdog Millionaire (2008),Crime|Drama|Romance,2008,3.809859155,0,0,0,0,0,1,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt1010048
+63113,0830515,Quantum of Solace (2008),Action|Adventure|Thriller,2008,3.457142857,1,1,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0830515
+63131,0430922,Role Models (2008),Comedy,2008,3.625,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0430922
+63859,0397892,Bolt (2008),Action|Adventure|Animation|Children|Comedy,2008,3.388888889,1,1,1,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0397892
+63876,1013753,Milk (2008),Drama,2008,3.545454545,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1013753
+63992,1099212,Twilight (2008),Drama|Fantasy|Romance|Thriller,2008,2.409090909,0,0,0,0,0,0,0,1,1,0,0,1,0,1,https://www.imdb.com/title/tt1099212
+64614,1205489,Gran Torino (2008),Crime|Drama,2008,3.945652174,0,0,0,0,0,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1205489
+64716,0814314,Seven Pounds (2008),Drama,2008,4.136363636,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0814314
+64839,1125849,"Wrestler, The (2008)",Drama,2008,3.735294118,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1125849
+64957,0421715,"Curious Case of Benjamin Button, The (2008)",Drama|Fantasy|Mystery|Romance,2008,3.594594595,0,0,0,0,0,0,0,1,1,0,1,1,0,0,https://www.imdb.com/title/tt0421715
+64969,1068680,Yes Man (2008),Comedy,2008,3.617647059,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1068680
+64983,0985699,Valkyrie (2008),Drama|Thriller,2008,3.409090909,0,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0985699
+65088,0960731,Bedtime Stories (2008),Adventure|Children|Comedy,2008,3.363636364,0,1,0,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0960731
+65230,0822832,Marley & Me (2008),Comedy|Drama,2008,3.142857143,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0822832
+65261,0876563,Ponyo (Gake no ue no Ponyo) (2008),Adventure|Animation|Children|Fantasy,2008,4.0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0876563
+65514,1220719,Ip Man (2008),Action|Drama,2008,3.95,1,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1220719
+66097,0327597,Coraline (2009),Animation|Fantasy|Thriller,2009,3.7,0,0,1,0,0,0,0,0,1,0,0,0,0,1,https://www.imdb.com/title/tt0327597
+66203,1001508,He's Just Not That Into You (2009),Comedy|Drama|Romance,2009,2.818181818,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt1001508
+66934,1227926,Dr. Horrible's Sing-Along Blog (2008),Comedy|Drama|Sci-Fi,2008,3.916666667,0,0,0,0,1,0,0,1,0,0,0,0,1,0,https://www.imdb.com/title/tt1227926
+67087,1155056,"I Love You, Man (2009)",Comedy,2009,3.529411765,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1155056
+67255,1132620,"Girl with the Dragon Tattoo, The (MÃ¤n som hatar kvinnor) (2009)",Crime|Drama|Mystery|Thriller,2009,3.94,0,0,0,0,0,1,0,1,0,0,1,0,0,1,https://www.imdb.com/title/tt1132620
+67734,1091722,Adventureland (2009),Comedy|Drama,2009,3.333333333,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1091722
+67923,1013752,"Fast & Furious (Fast and the Furious 4, The) (2009)",Action|Crime|Drama|Thriller,2009,3.25,1,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt1013752
+68135,0974661,17 Again (2009),Comedy|Drama,2009,3.55,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0974661
+68157,0361748,Inglourious Basterds (2009),Action|Drama,2009,4.136363636,1,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0361748
+68237,1182345,Moon (2009),Drama|Mystery|Sci-Fi|Thriller,2009,3.96875,0,0,0,0,0,0,0,1,0,0,1,0,1,1,https://www.imdb.com/title/tt1182345
+68319,0458525,X-Men Origins: Wolverine (2009),Action|Sci-Fi|Thriller,2009,2.865384615,1,0,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0458525
+68358,0796366,Star Trek (2009),Action|Adventure|Sci-Fi,2009,3.86440678,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0796366
+68554,0808151,Angels & Demons (2009),Crime|Drama|Mystery|Thriller,2009,3.264705882,0,0,0,0,0,1,0,1,0,0,1,0,0,1,https://www.imdb.com/title/tt0808151
+68791,0438488,Terminator Salvation (2009),Action|Adventure|Sci-Fi|Thriller,2009,3.25,1,1,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0438488
+68793,1078912,Night at the Museum: Battle of the Smithsonian (2009),Action|Comedy,2009,3.1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1078912
+68954,1049413,Up (2009),Adventure|Animation|Children|Drama,2009,4.004761905,0,1,1,1,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1049413
+69122,1119646,"Hangover, The (2009)",Comedy|Crime,2009,3.631578947,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1119646
+69406,1041829,"Proposal, The (2009)",Comedy|Romance,2009,3.5,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt1041829
+69481,0887912,"Hurt Locker, The (2008)",Action|Drama|Thriller,2008,4.058823529,1,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0887912
+69526,1055369,Transformers: Revenge of the Fallen (2009),Action|Adventure|Sci-Fi,2009,2.425,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1055369
+69644,1080016,Ice Age: Dawn of the Dinosaurs (2009),Action|Adventure|Animation|Children|Comedy|Romance,2009,2.607142857,1,1,1,1,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt1080016
+69757,1022603,(500) Days of Summer (2009),Comedy|Drama|Romance,2009,3.666666667,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt1022603
+69784,0889583,BrÃ¼no (Bruno) (2009),Comedy,2009,3.65,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0889583
+69844,0417741,Harry Potter and the Half-Blood Prince (2009),Adventure|Fantasy|Mystery|Romance,2009,3.887931034,0,1,0,0,0,0,0,0,1,0,1,1,0,0,https://www.imdb.com/title/tt0417741
+69951,1054606,"Imaginarium of Doctor Parnassus, The (2009)",Drama|Fantasy,2009,3.8125,0,0,0,0,0,0,0,1,1,0,0,0,0,0,https://www.imdb.com/title/tt1054606
+70183,1142988,"Ugly Truth, The (2009)",Comedy|Drama|Romance,2009,3.666666667,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt1142988
+70286,1136608,District 9 (2009),Mystery|Sci-Fi|Thriller,2009,3.776923077,0,0,0,0,0,0,0,0,0,0,1,0,1,1,https://www.imdb.com/title/tt1136608
+70293,1135503,Julie & Julia (2009),Comedy|Drama|Romance,2009,2.958333333,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt1135503
+71057,0472033,9 (2009),Adventure|Animation|Sci-Fi,2009,3.642857143,0,1,1,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0472033
+71264,0844471,Cloudy with a Chance of Meatballs (2009),Animation|Children|Fantasy,2009,3.529411765,0,0,1,1,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0844471
+71464,1019452,"Serious Man, A (2009)",Comedy|Drama,2009,3.227272727,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1019452
+71530,0986263,Surrogates (2009),Action|Sci-Fi|Thriller,2009,3.035714286,1,0,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0986263
+71535,1156398,Zombieland (2009),Action|Comedy|Horror,2009,3.877358491,1,0,0,0,1,0,0,0,0,1,0,0,0,0,https://www.imdb.com/title/tt1156398
+71745,0386117,Where the Wild Things Are (2009),Adventure|Children|Drama|Fantasy,2009,2.666666667,0,1,0,1,0,0,0,1,1,0,0,0,0,0,https://www.imdb.com/title/tt0386117
+71899,0978762,Mary and Max (2009),Animation|Comedy|Drama,2009,4.2,0,0,1,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0978762
+72011,1193138,Up in the Air (2009),Drama|Romance,2009,3.71875,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt1193138
+72226,0432283,Fantastic Mr. Fox (2009),Adventure|Animation|Children|Comedy|Crime,2009,4.083333333,0,1,1,1,1,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0432283
+72378,1190080,2012 (2009),Action|Drama|Sci-Fi|Thriller,2009,2.619047619,1,0,0,0,0,0,0,1,0,0,0,0,1,1,https://www.imdb.com/title/tt1190080
+72641,0878804,"Blind Side, The  (2009)",Drama,2009,3.677419355,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0878804
+72737,0780521,"Princess and the Frog, The (2009)",Animation|Children|Fantasy|Romance,2009,3.75,0,0,1,1,0,0,0,0,1,0,0,1,0,0,https://www.imdb.com/title/tt0780521
+72998,0499549,Avatar (2009),Action|Adventure|Sci-Fi,2009,3.603092784,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0499549
+73017,0988045,Sherlock Holmes (2009),Action|Crime|Mystery|Thriller,2009,3.853448276,1,0,0,0,0,1,0,0,0,0,1,0,0,1,https://www.imdb.com/title/tt0988045
+73321,1037705,"Book of Eli, The (2010)",Action|Adventure|Drama,2010,3.28125,1,1,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1037705
+74458,1130884,Shutter Island (2010),Drama|Mystery|Thriller,2010,4.02238806,0,0,0,0,0,0,0,1,0,0,1,0,0,1,https://www.imdb.com/title/tt1130884
+74789,1014759,Alice in Wonderland (2010),Adventure|Fantasy,2010,2.875,0,1,0,0,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt1014759
+76077,1231587,Hot Tub Time Machine (2010),Comedy|Sci-Fi,2010,3.3,0,0,0,0,1,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1231587
+76093,0892769,How to Train Your Dragon (2010),Adventure|Animation|Children|Fantasy,2010,3.943396226,0,1,1,1,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0892769
+76175,0800320,Clash of the Titans (2010),Action|Adventure|Drama|Fantasy,2010,2.307692308,1,1,0,0,0,0,0,1,1,0,0,0,0,0,https://www.imdb.com/title/tt0800320
+76251,1250777,Kick-Ass (2010),Action|Comedy,2010,3.651162791,1,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1250777
+76293,1279935,Date Night (2010),Action|Comedy|Romance,2010,3.318181818,1,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt1279935
+77455,1587707,Exit Through the Gift Shop (2010),Comedy|Documentary,2010,4.038461538,0,0,0,0,1,0,1,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1587707
+77561,1228705,Iron Man 2 (2010),Action|Adventure|Sci-Fi|Thriller,2010,3.510638298,1,1,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt1228705
+78105,0473075,Prince of Persia: The Sands of Time (2010),Action|Adventure|Fantasy|Romance,2010,2.884615385,1,1,0,0,0,0,0,0,1,0,0,1,0,0,https://www.imdb.com/title/tt0473075
+78209,1226229,Get Him to the Greek (2010),Comedy,2010,3.55,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1226229
+78469,0429493,"A-Team, The (2010)",Action|Comedy|Thriller,2010,3.147058824,1,0,0,0,1,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0429493
+78499,0435761,Toy Story 3 (2010),Adventure|Animation|Children|Comedy|Fantasy,2010,4.109090909,0,1,1,1,1,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0435761
+78772,1325004,"Twilight Saga: Eclipse, The (2010)",Fantasy|Romance|Thriller,2010,2.45,0,0,0,0,0,0,0,0,1,0,0,1,0,1,https://www.imdb.com/title/tt1325004
+79057,1424381,Predators (2010),Action|Sci-Fi|Thriller,2010,3.3,1,0,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt1424381
+79091,1323594,Despicable Me (2010),Animation|Children|Comedy|Crime,2010,3.684210526,0,0,1,1,1,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1323594
+79132,1375666,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller,2010,4.066433566,1,0,0,0,0,1,0,1,0,0,1,0,1,1,https://www.imdb.com/title/tt1375666
+79134,1375670,Grown Ups (2010),Comedy,2010,3.45,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1375670
+79139,0963966,"Sorcerer's Apprentice, The (2010)",Action|Adventure|Children|Comedy|Fantasy,2010,3.45,1,1,0,1,1,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0963966
+79293,0944835,Salt (2010),Action|Thriller,2010,2.966666667,1,0,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0944835
+79592,1386588,"Other Guys, The (2010)",Action|Comedy,2010,3.261904762,1,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1386588
+79695,1320253,"Expendables, The (2010)",Action|Adventure|Thriller,2010,3.058823529,1,1,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt1320253
+79702,0446029,Scott Pilgrim vs. the World (2010),Action|Comedy|Fantasy|Romance,2010,3.704545455,1,0,0,0,1,0,0,0,1,0,0,1,0,0,https://www.imdb.com/title/tt0446029
+80219,0985694,Machete (2010),Action|Adventure|Comedy|Crime|Thriller,2010,3.25,1,1,0,0,1,1,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0985694
+80463,1285016,"Social Network, The (2010)",Drama,2010,3.885964912,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1285016
+80489,0840361,"Town, The (2010)",Crime|Drama|Thriller,2010,3.954545455,0,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0840361
+80549,1282140,Easy A (2010),Comedy|Romance,2010,3.796296296,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt1282140
+80906,1645089,Inside Job (2010),Documentary,2010,4.291666667,0,0,0,0,0,0,1,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1645089
+81229,1245526,Red (2010),Action|Comedy,2010,3.5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1245526
+81537,1231583,Due Date (2010),Comedy,2010,3.1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1231583
+81562,1542344,127 Hours (2010),Adventure|Drama|Thriller,2010,3.833333333,0,1,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt1542344
+81564,1001526,Megamind (2010),Action|Animation|Children|Comedy|Sci-Fi,2010,3.6,1,0,1,1,1,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1001526
+81591,0947798,Black Swan (2010),Drama|Thriller,2010,3.630952381,0,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0947798
+81834,0926084,Harry Potter and the Deathly Hallows: Part 1 (2010),Action|Adventure|Fantasy,2010,3.989361702,1,1,0,0,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0926084
+81845,1504320,"King's Speech, The (2010)",Drama,2010,4.043103448,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1504320
+81847,0398286,Tangled (2010),Animation|Children|Comedy|Fantasy|Romance,2010,3.916666667,0,0,1,1,1,0,0,0,1,0,0,1,0,0,https://www.imdb.com/title/tt0398286
+81932,0964517,"Fighter, The (2010)",Drama,2010,3.760869565,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0964517
+82461,1104001,Tron: Legacy (2010),Action|Adventure|Sci-Fi,2010,3.236842105,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1104001
+83134,1465522,Tucker & Dale vs Evil (2010),Comedy|Horror,2010,3.916666667,0,0,0,0,1,0,0,0,0,1,0,0,0,0,https://www.imdb.com/title/tt1465522
+83349,0990407,"Green Hornet, The (2011)",Action|Comedy|Crime|Fantasy|Thriller,2011,3.0,1,0,0,0,1,1,0,0,1,0,0,0,0,1,https://www.imdb.com/title/tt0990407
+84152,1219289,Limitless (2011),Sci-Fi|Thriller,2011,3.95,0,0,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt1219289
+84374,1411238,No Strings Attached (2011),Comedy|Romance,2011,2.928571429,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt1411238
+84392,1189340,"Lincoln Lawyer, The (2011)",Crime|Drama|Thriller,2011,3.6,0,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt1189340
+84772,1092026,Paul (2011),Adventure|Comedy|Sci-Fi,2011,3.2,0,1,0,0,1,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1092026
+84944,1192628,Rango (2011),Action|Adventure|Animation|Children|Comedy,2011,3.617647059,1,1,1,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1192628
+84954,1385826,"Adjustment Bureau, The (2011)",Romance|Sci-Fi|Thriller,2011,3.166666667,0,0,0,0,0,0,0,0,0,0,0,1,1,1,https://www.imdb.com/title/tt1385826
+85414,0945513,Source Code (2011),Action|Drama|Mystery|Sci-Fi|Thriller,2011,3.602941176,1,0,0,0,0,0,0,1,0,0,1,0,1,1,https://www.imdb.com/title/tt0945513
+85510,0978764,Sucker Punch (2011),Action|Fantasy|Thriller,2011,3.125,1,0,0,0,0,0,0,0,1,0,0,0,0,1,https://www.imdb.com/title/tt0978764
+86190,0993842,Hanna (2011),Action|Adventure|Mystery|Thriller,2011,3.318181818,1,1,0,0,0,0,0,0,0,0,1,0,0,1,https://www.imdb.com/title/tt0993842
+86332,0800369,Thor (2011),Action|Adventure|Drama|Fantasy,2011,3.514705882,1,1,0,0,0,0,0,1,1,0,0,0,0,0,https://www.imdb.com/title/tt0800369
+86644,1596343,"Fast Five (Fast and the Furious 5, The) (2011)",Action|Crime|Drama|Thriller,2011,3.05,1,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt1596343
+86833,1478338,Bridesmaids (2011),Comedy,2011,3.761904762,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1478338
+86880,1298650,Pirates of the Caribbean: On Stranger Tides (2011),Action|Adventure|Fantasy,2011,3.229166667,1,1,0,0,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt1298650
+86882,1605783,Midnight in Paris (2011),Comedy|Fantasy|Romance,2011,3.56,0,0,0,0,1,0,0,0,1,0,0,1,0,0,https://www.imdb.com/title/tt1605783
+86911,1411697,"Hangover Part II, The (2011)",Comedy,2011,3.266666667,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1411697
+87222,1302011,Kung Fu Panda 2 (2011),Action|Adventure|Animation|Children|Comedy,2011,3.323529412,1,1,1,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1302011
+87232,1270798,X-Men: First Class (2011),Action|Adventure|Sci-Fi|Thriller,2011,3.790697674,1,1,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt1270798
+87306,1650062,Super 8 (2011),Mystery|Sci-Fi|Thriller,2011,3.595238095,0,0,0,0,0,0,0,0,0,0,1,0,1,1,https://www.imdb.com/title/tt1650062
+87430,1133985,Green Lantern (2011),Action|Adventure|Sci-Fi,2011,2.35,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1133985
+87520,1399103,Transformers: Dark of the Moon (2011),Action|Adventure|Sci-Fi,2011,2.363636364,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1399103
+87869,1499658,Horrible Bosses (2011),Comedy|Crime,2011,3.4375,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1499658
+88125,1201607,Harry Potter and the Deathly Hallows: Part 2 (2011),Action|Adventure|Drama|Fantasy|Mystery,2011,3.91,1,1,0,0,0,0,0,1,1,0,1,0,0,0,https://www.imdb.com/title/tt1201607
+88129,0780504,Drive (2011),Crime|Drama|Thriller,2011,3.765625,0,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt0780504
+88140,0458339,Captain America: The First Avenger (2011),Action|Adventure|Sci-Fi|Thriller,2011,3.546875,1,1,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt0458339
+88163,1570728,"Crazy, Stupid, Love. (2011)",Comedy|Drama|Romance,2011,3.983870968,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt1570728
+88405,1632708,Friends with Benefits (2011),Comedy|Romance,2011,3.05,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt1632708
+88744,1318514,Rise of the Planet of the Apes (2011),Action|Drama|Sci-Fi|Thriller,2011,3.462962963,1,0,0,0,0,0,0,1,0,0,0,0,1,1,https://www.imdb.com/title/tt1318514
+88785,1488555,"Change-Up, The (2011)",Comedy,2011,2.85,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1488555
+88810,1454029,"Help, The (2011)",Drama,2011,3.833333333,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1454029
+89470,1598778,Contagion (2011),Sci-Fi|Thriller,2011,3.708333333,0,0,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt1598778
+89492,1210166,Moneyball (2011),Drama,2011,3.884615385,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1210166
+89745,0848228,"Avengers, The (2012)",Action|Adventure|Sci-Fi,2012,3.869565217,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0848228
+89774,1291584,Warrior (2011),Drama,2011,3.727272727,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1291584
+89864,1306980,50/50 (2011),Comedy|Drama,2011,3.631578947,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1306980
+89904,1655442,The Artist (2011),Comedy|Drama|Romance,2011,4.045454545,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt1655442
+90405,1637688,In Time (2011),Crime|Sci-Fi|Thriller,2011,3.392857143,0,0,0,0,0,1,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt1637688
+90746,0983193,"Adventures of Tintin, The (2011)",Action|Animation|Mystery,2011,3.5,1,0,1,0,0,0,0,0,0,0,1,0,0,0,https://www.imdb.com/title/tt0983193
+90866,0970179,Hugo (2011),Children|Drama|Mystery,2011,3.75,0,0,0,1,0,0,0,1,0,0,1,0,0,0,https://www.imdb.com/title/tt0970179
+91077,1033575,"Descendants, The (2011)",Comedy|Drama,2011,4.0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1033575
+91094,1204342,"Muppets, The (2011)",Children|Comedy,2011,2.6,0,0,0,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1204342
+91485,1764651,"Expendables 2, The (2012)",Action|Adventure,2012,3.5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1764651
+91500,1392170,The Hunger Games (2012),Action|Adventure|Drama|Sci-Fi|Thriller,2012,3.435185185,1,1,0,0,0,0,0,1,0,0,0,0,1,1,https://www.imdb.com/title/tt1392170
+91529,1345836,"Dark Knight Rises, The (2012)",Action|Adventure|Crime,2012,3.993421053,1,1,0,0,0,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1345836
+91535,1194173,"Bourne Legacy, The (2012)",Action|Adventure|Drama|Thriller,2012,3.138888889,1,1,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt1194173
+91542,1515091,Sherlock Holmes: A Game of Shadows (2011),Action|Adventure|Comedy|Crime|Mystery|Thriller,2011,3.763157895,1,1,0,0,1,1,0,0,0,0,1,0,0,1,https://www.imdb.com/title/tt1515091
+91630,1229238,Mission: Impossible - Ghost Protocol (2011),Action|Adventure|Thriller,2011,3.659090909,1,1,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt1229238
+91658,1568346,"Girl with the Dragon Tattoo, The (2011)",Drama|Thriller,2011,3.488095238,0,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt1568346
+92259,1675434,Intouchables (2011),Comedy|Drama,2011,4.108108108,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1675434
+92535,2112999,Louis C.K.: Live at the Beacon Theater (2011),Comedy,2011,4.3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt2112999
+93326,1596350,This Means War (2012),Action|Comedy|Romance,2012,2.636363636,1,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt1596350
+93363,0401729,John Carter (2012),Action|Adventure|Sci-Fi,2012,3.090909091,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0401729
+93510,1232829,21 Jump Street (2012),Action|Comedy|Crime,2012,3.865384615,1,0,0,0,1,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1232829
+93840,1259521,"Cabin in the Woods, The (2012)",Comedy|Horror|Sci-Fi|Thriller,2012,4.022727273,0,0,0,0,1,0,0,0,0,1,0,0,1,1,https://www.imdb.com/title/tt1259521
+94677,1645170,"Dictator, The (2012)",Comedy,2012,3.558823529,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1645170
+94777,1409024,Men in Black III (M.III.B.) (M.I.B.Â³) (2012),Action|Comedy|Sci-Fi,2012,3.277777778,1,0,0,0,1,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1409024
+94864,1446714,Prometheus (2012),Action|Horror|Sci-Fi,2012,3.296296296,1,0,0,0,0,0,0,0,0,1,0,0,1,0,https://www.imdb.com/title/tt1446714
+94959,1748122,Moonrise Kingdom (2012),Comedy|Drama|Romance,2012,3.775862069,0,0,0,0,1,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt1748122
+95167,1217209,Brave (2012),Action|Adventure|Animation|Children,2012,3.466666667,1,1,1,1,0,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1217209
+95441,1637725,Ted (2012),Comedy|Fantasy,2012,3.285714286,0,0,0,0,1,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt1637725
+95510,0948470,"Amazing Spider-Man, The (2012)",Action|Adventure|Sci-Fi,2012,3.25,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0948470
+96079,1074638,Skyfall (2012),Action|Adventure|Thriller,2012,3.81,1,1,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt1074638
+96588,1981677,Pitch Perfect (2012),Comedy,2012,3.625,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1981677
+96610,1276104,Looper (2012),Action|Crime|Sci-Fi,2012,3.640625,1,0,0,0,0,1,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1276104
+96737,1343727,Dredd (2012),Action|Sci-Fi,2012,3.714285714,1,0,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1343727
+96821,1659337,"Perks of Being a Wallflower, The (2012)",Drama|Romance,2012,3.825,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt1659337
+96829,2106476,"Hunt, The (Jagten) (2012)",Drama,2012,4.3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt2106476
+97225,0837562,Hotel Transylvania (2012),Animation|Children|Comedy,2012,3.409090909,0,0,1,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt0837562
+97304,1024648,Argo (2012),Drama|Thriller,2012,3.982142857,0,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt1024648
+97306,1931533,Seven Psychopaths (2012),Comedy|Crime,2012,3.466666667,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1931533
+97752,1371111,Cloud Atlas (2012),Drama|Sci-Fi,2012,3.736842105,0,0,0,0,0,0,0,1,0,0,0,0,1,0,https://www.imdb.com/title/tt1371111
+97913,1772341,Wreck-It Ralph (2012),Animation|Comedy,2012,3.75,0,0,1,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1772341
+97921,1045658,Silver Linings Playbook (2012),Comedy|Drama,2012,3.716666667,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1045658
+97938,0454876,Life of Pi (2012),Adventure|Drama,2012,3.629032258,0,1,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0454876
+98243,1446192,Rise of the Guardians (2012),Adventure|Animation|Children|Fantasy,2012,3.791666667,0,1,1,1,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt1446192
+98809,0903624,"Hobbit: An Unexpected Journey, The (2012)",Adventure|Fantasy,2012,3.8125,0,1,0,0,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0903624
+98961,1790885,Zero Dark Thirty (2012),Action|Drama|Thriller,2012,4.107142857,1,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt1790885
+99007,1588173,Warm Bodies (2013),Comedy|Horror|Romance,2013,3.5,0,0,0,0,1,0,0,0,0,1,0,1,0,0,https://www.imdb.com/title/tt1588173
+99112,0790724,Jack Reacher (2012),Action|Crime|Thriller,2012,3.416666667,1,0,0,0,0,1,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt0790724
+99114,1853728,Django Unchained (2012),Action|Drama,2012,3.943661972,1,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1853728
+101864,1483013,Oblivion (2013),Action|Adventure|Sci-Fi,2013,3.3,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1483013
+102123,1245492,This Is the End (2013),Action|Comedy,2013,3.214285714,1,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1245492
+102125,1300854,Iron Man 3 (2013),Action|Sci-Fi|Thriller,2013,3.5625,1,0,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt1300854
+102407,1343092,"Great Gatsby, The (2013)",Drama,2013,3.375,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1343092
+102445,1408101,Star Trek Into Darkness (2013),Action|Adventure|Sci-Fi,2013,3.685185185,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1408101
+102481,2234155,"Internship, The (2013)",Comedy,2013,3.55,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt2234155
+102903,1670345,Now You See Me (2013),Crime|Mystery|Thriller,2013,3.409090909,0,0,0,0,0,1,0,0,0,0,1,0,0,1,https://www.imdb.com/title/tt1670345
+103042,0770828,Man of Steel (2013),Action|Adventure|Fantasy|Sci-Fi,2013,3.295454545,1,1,0,0,0,0,0,0,1,0,0,0,1,0,https://www.imdb.com/title/tt0770828
+103141,1453405,Monsters University (2013),Adventure|Animation|Comedy,2013,3.875,0,1,1,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1453405
+103228,1663662,Pacific Rim (2013),Action|Adventure|Sci-Fi,2013,3.607142857,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1663662
+103249,0816711,World War Z (2013),Action|Drama|Horror,2013,3.026315789,1,0,0,0,0,0,0,1,0,1,0,0,0,0,https://www.imdb.com/title/tt0816711
+103253,1535108,Elysium (2013),Action|Drama|Sci-Fi,2013,3.3125,1,0,0,0,0,0,0,1,0,0,0,0,1,0,https://www.imdb.com/title/tt1535108
+103335,1690953,Despicable Me 2 (2013),Animation|Children|Comedy,2013,3.578947368,0,0,1,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1690953
+103341,1213663,"World's End, The (2013)",Action|Comedy|Sci-Fi,2013,3.416666667,1,0,0,0,1,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1213663
+103772,1430132,"Wolverine, The (2013)",Action|Adventure|Fantasy|Sci-Fi,2013,3.375,1,1,0,0,0,0,0,0,1,0,0,0,1,0,https://www.imdb.com/title/tt1430132
+104211,1723121,We're the Millers (2013),Comedy|Crime,2013,3.738095238,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1723121
+104241,1650554,Kick-Ass 2 (2013),Action|Comedy|Crime,2013,3.454545455,1,0,0,0,1,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1650554
+104374,2194499,About Time (2013),Drama|Fantasy|Romance,2013,3.933333333,0,0,0,0,0,0,0,1,1,0,0,1,0,0,https://www.imdb.com/title/tt2194499
+104841,1454468,Gravity (2013),Action|Sci-Fi,2013,3.578125,1,0,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1454468
+104879,1392214,Prisoners (2013),Drama|Mystery|Thriller,2013,4.15625,0,0,0,0,0,0,0,1,0,0,1,0,0,1,https://www.imdb.com/title/tt1392214
+104913,1979320,Rush (2013),Action|Drama,2013,3.818181818,1,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1979320
+105504,1535109,Captain Phillips (2013),Adventure|Drama|Thriller,2013,4.047619048,0,1,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt1535109
+105844,2024544,12 Years a Slave (2013),Drama,2013,3.625,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt2024544
+106002,1731141,Ender's Game (2013),Action|Adventure|Sci-Fi,2013,3.4375,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1731141
+106072,1981115,Thor: The Dark World (2013),Action|Adventure|Fantasy,2013,3.30952381,1,1,0,0,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt1981115
+106100,0790636,Dallas Buyers Club (2013),Drama,2013,3.970588235,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0790636
+106487,1951264,The Hunger Games: Catching Fire (2013),Action|Adventure|Sci-Fi,2013,3.634615385,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1951264
+106489,1170358,"Hobbit: The Desolation of Smaug, The (2013)",Adventure|Fantasy,2013,3.58,0,1,0,0,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt1170358
+106696,2294629,Frozen (2013),Adventure|Animation|Comedy|Fantasy|Romance,2013,3.620689655,0,1,1,0,1,0,0,0,1,0,0,1,0,0,https://www.imdb.com/title/tt2294629
+106782,0993846,"Wolf of Wall Street, The (2013)",Comedy|Crime|Drama,2013,3.916666667,0,0,0,0,1,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0993846
+106916,1800241,American Hustle (2013),Crime|Drama,2013,3.25,0,0,0,0,0,1,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1800241
+106918,0359950,"Secret Life of Walter Mitty, The (2013)",Adventure|Comedy|Drama,2013,4.0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt0359950
+106920,1798709,Her (2013),Drama|Romance|Sci-Fi,2013,3.92,0,0,0,0,0,0,0,1,0,0,0,1,1,0,https://www.imdb.com/title/tt1798709
+107348,1229340,Anchorman 2: The Legend Continues (2013),Comedy,2013,3.363636364,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1229340
+107406,1706620,Snowpiercer (2013),Action|Drama|Sci-Fi,2013,3.428571429,1,0,0,0,0,0,0,1,0,0,0,0,1,0,https://www.imdb.com/title/tt1706620
+108190,1840309,Divergent (2014),Adventure|Romance|Sci-Fi,2014,3.0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,https://www.imdb.com/title/tt1840309
+108932,1490017,The Lego Movie (2014),Action|Adventure|Animation|Children|Comedy|Fantasy,2014,3.870967742,1,1,1,1,1,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt1490017
+109374,2278388,"Grand Budapest Hotel, The (2014)",Comedy|Drama,2014,3.778846154,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt2278388
+109487,0816692,Interstellar (2014),Sci-Fi,2014,3.993150685,0,0,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0816692
+110102,1843866,Captain America: The Winter Soldier (2014),Action|Adventure|Sci-Fi,2014,3.741935484,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1843866
+110553,1872181,The Amazing Spider-Man 2 (2014),Action|Sci-Fi,2014,2.636363636,1,0,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1872181
+111113,2004420,Neighbors (2014),Comedy,2014,3.291666667,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt2004420
+111360,2872732,Lucy (2014),Action|Sci-Fi,2014,2.821428571,1,0,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt2872732
+111362,1877832,X-Men: Days of Future Past (2014),Action|Adventure|Sci-Fi,2014,3.833333333,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1877832
+111364,0831387,Godzilla (2014),Action|Adventure|Sci-Fi,2014,2.615384615,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0831387
+111659,1587310,Maleficent (2014),Action|Adventure|Children,2014,2.75,1,1,0,1,0,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1587310
+111743,2557490,A Million Ways to Die in the West (2014),Comedy,2014,2.958333333,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt2557490
+111759,1631867,Edge of Tomorrow (2014),Action|Sci-Fi,2014,3.977272727,1,0,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1631867
+111781,2381249,Mission: Impossible - Rogue Nation (2015),Action|Adventure|Thriller,2015,3.647058824,1,1,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt2381249
+112138,2294449,22 Jump Street (2014),Action|Comedy|Crime,2014,3.684210526,1,0,0,0,1,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt2294449
+112175,1646971,How to Train Your Dragon 2 (2014),Action|Adventure|Animation,2014,3.766666667,1,1,1,0,0,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1646971
+112183,2562232,Birdman: Or (The Unexpected Virtue of Ignorance) (2014),Comedy|Drama,2014,3.346153846,0,0,0,0,1,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt2562232
+112290,1065073,Boyhood (2014),Drama,2014,3.823529412,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1065073
+112552,2582802,Whiplash (2014),Drama,2014,4.039473684,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt2582802
+112556,2267998,Gone Girl (2014),Drama|Thriller,2014,3.716216216,0,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt2267998
+112623,2103281,Dawn of the Planet of the Apes (2014),Sci-Fi,2014,3.433333333,0,0,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt2103281
+112852,2015381,Guardians of the Galaxy (2014),Action|Adventure|Sci-Fi,2014,4.050847458,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt2015381
+114180,1790864,"Maze Runner, The (2014)",Action|Mystery|Sci-Fi,2014,2.9375,1,0,0,0,0,0,0,0,0,0,1,0,1,0,https://www.imdb.com/title/tt1790864
+114662,2179136,American Sniper (2014),Action,2014,3.8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt2179136
+114935,2397535,Predestination (2014),Action|Mystery|Sci-Fi|Thriller,2014,3.9,1,0,0,0,0,0,0,0,0,0,1,0,1,1,https://www.imdb.com/title/tt2397535
+115149,2911666,John Wick (2014),Action|Thriller,2014,3.844827586,1,0,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt2911666
+115210,2713180,Fury (2014),Action|Drama,2014,3.769230769,1,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt2713180
+115569,2872718,Nightcrawler (2014),Crime|Drama|Thriller,2014,4.166666667,0,0,0,0,0,1,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt2872718
+115617,2245084,Big Hero 6 (2014),Action|Animation|Comedy,2014,3.853658537,1,0,1,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt2245084
+115713,0470752,Ex Machina (2015),Drama|Sci-Fi|Thriller,2015,3.910714286,0,0,0,0,0,0,0,1,0,0,0,0,1,1,https://www.imdb.com/title/tt0470752
+116797,2084970,The Imitation Game (2014),Drama|Thriller,2014,4.02,0,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt2084970
+116823,1951265,The Hunger Games: Mockingjay - Part 1 (2014),Adventure|Sci-Fi|Thriller,2014,3.869565217,0,1,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt1951265
+116897,3011894,Wild Tales (2014),Comedy|Drama|Thriller,2014,4.25,0,0,0,0,1,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt3011894
+117176,2980516,The Theory of Everything (2014),Drama|Romance,2014,3.705882353,0,0,0,0,0,0,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt2980516
+117529,0369610,Jurassic World (2015),Action|Adventure|Drama|Sci-Fi|Thriller,2015,3.260869565,1,1,0,0,0,0,0,1,0,0,0,0,1,1,https://www.imdb.com/title/tt0369610
+117590,2170439,Horrible Bosses 2 (2014),Comedy|Crime,2014,3.636363636,0,0,0,0,1,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt2170439
+118696,2310332,The Hobbit: The Battle of the Five Armies (2014),Adventure|Fantasy,2014,3.416666667,0,1,0,0,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt2310332
+119141,2788710,The Interview (2014),Action|Comedy,2014,3.458333333,1,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt2788710
+119145,2802144,Kingsman: The Secret Service (2015),Action|Adventure|Comedy|Crime,2015,3.986111111,1,1,0,0,1,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt2802144
+120466,1823672,Chappie (2015),Action|Thriller,2015,3.25,1,0,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt1823672
+122882,1392190,Mad Max: Fury Road (2015),Action|Adventure|Sci-Fi|Thriller,2015,3.819148936,1,1,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt1392190
+122886,2488496,Star Wars: Episode VII - The Force Awakens (2015),Action|Adventure|Fantasy|Sci-Fi,2015,3.853658537,1,1,0,0,0,0,0,0,1,0,0,0,1,0,https://www.imdb.com/title/tt2488496
+122892,2395427,Avengers: Age of Ultron (2015),Action|Adventure|Sci-Fi,2015,3.518518519,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt2395427
+122900,0478970,Ant-Man (2015),Action|Adventure|Sci-Fi,2015,3.722222222,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt0478970
+122904,1431045,Deadpool (2016),Action|Adventure|Comedy|Sci-Fi,2016,3.833333333,1,1,0,0,1,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1431045
+122906,1825683,Black Panther (2017),Action|Adventure|Sci-Fi,2017,3.727272727,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1825683
+122912,4154756,Avengers: Infinity War - Part I (2018),Action|Adventure|Sci-Fi,2018,4.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt4154756
+122916,3501632,Thor: Ragnarok (2017),Action|Adventure|Sci-Fi,2017,4.025,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt3501632
+122918,3896198,Guardians of the Galaxy 2 (2017),Action|Adventure|Sci-Fi,2017,3.925925926,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt3896198
+122920,3498820,Captain America: Civil War (2016),Action|Sci-Fi|Thriller,2016,3.613636364,1,0,0,0,0,0,0,0,0,0,0,0,1,1,https://www.imdb.com/title/tt3498820
+122922,1211837,Doctor Strange (2016),Action|Adventure|Sci-Fi,2016,3.704545455,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1211837
+122924,3385516,X-Men: Apocalypse (2016),Action|Adventure|Fantasy|Sci-Fi,2016,3.071428571,1,1,0,0,0,0,0,0,1,0,0,0,1,0,https://www.imdb.com/title/tt3385516
+122926,2250912,Untitled Spider-Man Reboot (2017),Action|Adventure|Fantasy,2017,4.15625,1,1,0,0,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt2250912
+129354,2381941,Focus (2015),Comedy|Crime|Drama|Romance,2015,3.25,0,0,0,0,1,1,0,1,0,0,0,1,0,0,https://www.imdb.com/title/tt2381941
+134130,3659388,The Martian (2015),Adventure|Drama|Sci-Fi,2015,4.0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,https://www.imdb.com/title/tt3659388
+134368,3079380,Spy (2015),Action|Comedy|Crime,2015,3.6875,1,0,0,0,1,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt3079380
+134393,3152624,Trainwreck (2015),Comedy|Romance,2015,3.2,0,0,0,0,1,0,0,0,0,0,0,1,0,0,https://www.imdb.com/title/tt3152624
+134853,2096673,Inside Out (2015),Adventure|Animation|Children|Comedy|Drama|Fantasy,2015,3.813953488,0,1,1,1,1,0,0,1,1,0,0,0,0,0,https://www.imdb.com/title/tt2096673
+135133,1951266,The Hunger Games: Mockingjay - Part 2 (2015),Adventure|Sci-Fi,2015,3.7,0,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1951266
+135143,3183660,Fantastic Beasts and Where to Find Them (2016),Fantasy,2016,3.678571429,0,0,0,0,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt3183660
+135536,1386697,Suicide Squad (2016),Action|Crime|Sci-Fi,2016,2.916666667,1,0,0,0,0,1,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1386697
+135569,2660888,Star Trek Beyond (2016),Action|Adventure|Sci-Fi,2016,3.466666667,1,1,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt2660888
+135887,2293640,Minions (2015),Adventure|Animation|Children|Comedy,2015,3.166666667,0,1,1,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt2293640
+136020,2379713,Spectre (2015),Action|Adventure|Crime,2015,3.058823529,1,1,0,0,0,1,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt2379713
+136864,2975590,Batman v Superman: Dawn of Justice (2016),Action|Adventure|Fantasy|Sci-Fi,2016,2.34375,1,1,0,0,0,0,0,0,1,0,0,0,1,0,https://www.imdb.com/title/tt2975590
+137857,3040964,The Jungle Book (2016),Adventure|Drama|Fantasy,2016,3.636363636,0,1,0,0,0,0,0,1,1,0,0,0,0,0,https://www.imdb.com/title/tt3040964
+138036,1638355,The Man from U.N.C.L.E. (2015),Action|Adventure|Comedy,2015,3.472222222,1,1,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt1638355
+139385,1663202,The Revenant (2015),Adventure|Drama,2015,3.903225806,0,1,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1663202
+139644,3397884,Sicario (2015),Crime|Drama|Mystery,2015,3.545454545,0,0,0,0,0,1,0,1,0,0,1,0,0,0,https://www.imdb.com/title/tt3397884
+140110,2361509,The Intern (2015),Comedy,2015,3.653846154,0,0,0,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt2361509
+142488,1895587,Spotlight (2015),Thriller,2015,4.157894737,0,0,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt1895587
+143355,0451279,Wonder Woman (2017),Action|Adventure|Fantasy,2017,3.307692308,1,1,0,0,0,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt0451279
+148626,1596363,"Big Short, The (2015)",Drama,2015,3.961538462,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt1596363
+150548,3845232,Sherlock: The Abominable Bride (2016),Action|Crime|Drama|Mystery|Thriller,2016,3.85,1,0,0,0,0,1,0,1,0,0,1,0,0,1,https://www.imdb.com/title/tt3845232
+152077,1179933,10 Cloverfield Lane (2016),Thriller,2016,3.678571429,0,0,0,0,0,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt1179933
+152081,2948356,Zootopia (2016),Action|Adventure|Animation|Children|Comedy,2016,3.890625,1,1,1,1,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt2948356
+157296,2277860,Finding Dory (2016),Adventure|Animation|Comedy,2016,3.576923077,0,1,1,0,1,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt2277860
+158238,3799694,The Nice Guys (2016),Crime|Mystery|Thriller,2016,3.833333333,0,0,0,0,0,1,0,0,0,0,1,0,0,1,https://www.imdb.com/title/tt3799694
+159093,3110958,Now You See Me 2 (2016),Action|Comedy|Thriller,2016,3.636363636,1,0,0,0,1,0,0,0,0,0,0,0,0,1,https://www.imdb.com/title/tt3110958
+164179,2543164,Arrival (2016),Sci-Fi,2016,3.980769231,0,0,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt2543164
+166461,3521164,Moana (2016),Adventure|Animation|Children|Comedy|Fantasy,2016,3.45,0,1,1,1,1,0,0,0,1,0,0,0,0,0,https://www.imdb.com/title/tt3521164
+166528,3748528,Rogue One: A Star Wars Story (2016),Action|Adventure|Fantasy|Sci-Fi,2016,3.925925926,1,1,0,0,0,0,0,0,1,0,0,0,1,0,https://www.imdb.com/title/tt3748528
+166643,4846340,Hidden Figures (2016),Drama,2016,3.8,0,0,0,0,0,0,0,1,0,0,0,0,0,0,https://www.imdb.com/title/tt4846340
+168250,5052448,Get Out (2017),Horror,2017,3.633333333,0,0,0,0,0,0,0,0,0,1,0,0,0,0,https://www.imdb.com/title/tt5052448
+168252,3315342,Logan (2017),Action|Sci-Fi,2017,4.28,1,0,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt3315342
+174055,5013056,Dunkirk (2017),Action|Drama|Thriller,2017,3.423076923,1,0,0,0,0,0,0,1,0,0,0,0,0,1,https://www.imdb.com/title/tt5013056
+176371,1856101,Blade Runner 2049 (2017),Sci-Fi,2017,3.805555556,0,0,0,0,0,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt1856101
+177765,2380307,Coco (2017),Adventure|Animation|Children,2017,3.538461538,0,1,1,1,0,0,0,0,0,0,0,0,0,0,https://www.imdb.com/title/tt2380307
+179819,2527336,Star Wars: The Last Jedi (2017),Action|Adventure|Fantasy|Sci-Fi,2017,3.125,1,1,0,0,0,0,0,0,1,0,0,0,1,0,https://www.imdb.com/title/tt2527336
+187593,5463162,Deadpool 2 (2018),Action|Comedy|Sci-Fi,2018,3.875,1,0,0,0,1,0,0,0,0,0,0,0,1,0,https://www.imdb.com/title/tt5463162
