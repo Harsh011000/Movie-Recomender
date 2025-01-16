@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import numpy as np
 import tensorflow as tf
@@ -38,7 +39,7 @@ app = Flask(__name__)
 # Load your pre-trained model
 #model = tf.keras.models.load_model("path_to_your_model.h5")  # Update the path to your model file
 
-@app.route('/predict', methods=['GET'])
+@app.route('/predict', methods=['POST'])
 def predict():
     try:
         # Parse the input JSON request
@@ -115,5 +116,5 @@ def predict():
         return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
-    app.run(debug=True)
+     app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
 
