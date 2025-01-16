@@ -15,16 +15,16 @@ custom_objects = {
     "L2Normalization": L2Normalization
 }
 
-model = tf.keras.models.load_model('../Models/my_model.keras',custom_objects=custom_objects)
+model = tf.keras.models.load_model('Models/my_model.keras',custom_objects=custom_objects)
 
-user_scaler=load('../Models/UserScaler.joblib')
-movie_scaler=load('../Models/MovieScaler.joblib')
-rating_scaler=load('../Models/MinMaxRatingScaler.joblib')
+user_scaler=load('Models/UserScaler.joblib')
+movie_scaler=load('Models/MovieScaler.joblib')
+rating_scaler=load('Models/MinMaxRatingScaler.joblib')
 
 def load_dataset(scalerItem,scalerUser):
     # Load the CSV file
-    df = pd.read_csv("updated_api_data.csv")
-    dfUser=pd.read_csv("user_file_forApi.csv")
+    df = pd.read_csv("Api/updated_api_data.csv")
+    dfUser=pd.read_csv("Api/user_file_forApi.csv")
     item_train = scalerItem.transform(df.iloc[:,3:20])
     user_train= scalerUser.transform(dfUser)
     info=df.iloc[:,[1,2,4,20]]
@@ -55,7 +55,7 @@ def predict():
         columns = ['3.95', '4.25', '0.0', '0.0.1', '4.0.1',
            '4.12', '4.0.2', '4.04', '0.0.2', '3.0', '4.0.3', '0.0.3', '3.88', '3.89']
         df = pd.DataFrame(input_array, columns=columns)
-        tempDf=pd.read_csv('temp_user_data.csv')
+        tempDf=pd.read_csv('Api/temp_user_data.csv')
         df=pd.concat([tempDf,df],axis=1)
         
         # Replicate rows until the length is 847
