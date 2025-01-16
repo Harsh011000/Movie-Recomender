@@ -70,7 +70,7 @@ def predict():
         info,_,item_train=load_dataset(movie_scaler,user_scaler)
         
         # Make predictions using the model
-        predictions = model.predict([user_train,item_train]) #[:,3:]
+        predictions = model.predict([user_train[:,3:],item_train]) #[:,3:]
         predictions= rating_scaler.inverse_transform(predictions)
         
         # Convert predictions to a list
