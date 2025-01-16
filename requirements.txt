@@ -78,8 +78,7 @@ namex==0.0.8
 
 netifaces==0.11.0
 networkx==3.3
-notebook @ file:///croot/notebook_1708029864779/work
-notebook_shim @ file:///croot/notebook-shim_1699455894279/work
+
 numpy==1.26.4
 nvidia-cublas-cu12==12.3.4.1
 nvidia-cuda-cupti-cu12==12.3.101
