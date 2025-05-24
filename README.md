@@ -25,7 +25,6 @@ This project is a **Movie Recommendation System** built using **TensorFlow, Flas
 │   ├── temp_user_data.csv          # Temporary user input data
 │
 ├── 📜 Flask_Api.py                  # Flask application for predictions
-├── 📜 Hyperparameter_Tuning.ipynb    # Hyperparameter tuning using Ray Tune
 ├── 📜 requirements.txt               # Dependencies and packages required
 ├── 📜 README.md                      # Project documentation
 └── 📜 .gitignore                      # Ignore unnecessary files
