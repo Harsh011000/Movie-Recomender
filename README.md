@@ -6,7 +6,6 @@ This project is a **Movie Recommendation System** built using **TensorFlow, Flas
 ## 🔥 Features
 - **Preprocessing**: Scaling user and movie features using **MinMaxScaler**.
 - **Model Training**: Deep learning model with **custom L2 normalization** layer.
-- **Hyperparameter Optimization**: Utilizes **Ray Tune** for fine-tuning hyperparameters.
 - **Flask API**: Exposes a `/predict` endpoint to get movie recommendations.
 - **Deployment Ready**: Easily deployable as a web service.
 
@@ -79,35 +78,7 @@ The API returns a sorted list of movie recommendations:
 - **Activation**: ReLU activations with dropout for regularization.
 - **Loss Function**: Mean Squared Error (MSE).
 
-## 🛠️ Hyperparameter Tuning
-Hyperparameter optimization is performed using **Ray Tune** with **Bayesian Optimization**. The tuning process explores:
-- **Number of layers**: 2 to 5
-- **Neurons per layer**: 32, 64, 128
-- **Learning rate**: 0.0001 to 0.01
-- **Batch size**: 32, 64, 128
 
-### 📊 Example Ray Tune Configuration
-```python
-from ray import tune
-
-def train_model(config):
-    model = build_model(layers=config["layers"],
-                        units=config["units"],
-                        lr=config["learning_rate"])
-    history = model.fit(train_data, train_labels,
-                        batch_size=config["batch_size"],
-                        epochs=10, validation_data=(val_data, val_labels))
-    tune.report(loss=min(history.history['val_loss']))
-
-search_space = {
-    "layers": tune.choice([2, 3, 4, 5]),
-    "units": tune.choice([32, 64, 128]),
-    "learning_rate": tune.loguniform(0.0001, 0.01),
-    "batch_size": tune.choice([32, 64, 128])
-}
-
-tuner = tune.run(train_model, config=search_space, num_samples=20)
-```
 
 ## 📌 Dependencies
 - Python 3.8+
